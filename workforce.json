@@ -1,0 +1,4719 @@
+{
+  "name": "U.S. Workforce",
+  "children": [
+    {
+      "name": "Management Occupations",
+      "salary": 118020,
+      "children": [
+        {
+          "name": "Top Executives",
+          "salary": 126950,
+          "children": [
+            {
+              "name": "Chief Executives",
+              "value": 223260,
+              "salary": 194350
+            },
+            {
+              "name": "General and Operations Managers",
+              "value": 2188870,
+              "salary": 122090
+            },
+            {
+              "name": "Legislators",
+              "value": 53670,
+              "salary": 44820
+            }
+          ]
+        },
+        {
+          "name": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+          "salary": 136020,
+          "children": [
+            {
+              "name": "Advertising and Promotions Managers",
+              "value": 28860,
+              "salary": 117810
+            },
+            {
+              "name": "Marketing Managers",
+              "value": 205900,
+              "salary": 144140
+            },
+            {
+              "name": "Sales Managers",
+              "value": 365230,
+              "salary": 135090
+            },
+            {
+              "name": "Public Relations and Fundraising Managers",
+              "value": 63970,
+              "salary": 123360
+            }
+          ]
+        },
+        {
+          "name": "Operations Specialties Managers",
+          "salary": 125470,
+          "children": [
+            {
+              "name": "Administrative Services Managers",
+              "value": 266280,
+              "salary": 98930
+            },
+            {
+              "name": "Computer and Information Systems Managers",
+              "value": 352510,
+              "salary": 145740
+            },
+            {
+              "name": "Financial Managers",
+              "value": 543300,
+              "salary": 139720
+            },
+            {
+              "name": "Industrial Production Managers",
+              "value": 168400,
+              "salary": 107060
+            },
+            {
+              "name": "Purchasing Managers",
+              "value": 71750,
+              "salary": 117720
+            },
+            {
+              "name": "Transportation, Storage, and Distribution Managers",
+              "value": 113270,
+              "salary": 97630
+            },
+            {
+              "name": "Compensation and Benefits Managers",
+              "value": 15230,
+              "salary": 126900
+            },
+            {
+              "name": "Human Resources Managers",
+              "value": 129810,
+              "salary": 120210
+            },
+            {
+              "name": "Training and Development Managers",
+              "value": 32880,
+              "salary": 115180
+            }
+          ]
+        },
+        {
+          "name": "Other Management Occupations",
+          "salary": 97480,
+          "children": [
+            {
+              "name": "Farmers, Ranchers, and Other Agricultural Managers",
+              "value": 4560,
+              "salary": 75790
+            },
+            {
+              "name": "Construction Managers",
+              "value": 249650,
+              "salary": 99510
+            },
+            {
+              "name": "Education Administrators, Preschool and Childcare Center/Program",
+              "value": 48530,
+              "salary": 52150
+            },
+            {
+              "name": "Education Administrators, Elementary and Secondary School",
+              "value": 242970,
+              "salary": 95390
+            },
+            {
+              "name": "Education Administrators, Postsecondary",
+              "value": 138430,
+              "salary": 105770
+            },
+            {
+              "name": "Education Administrators, All Other",
+              "value": 34140,
+              "salary": 84400
+            },
+            {
+              "name": "Architectural and Engineering Managers",
+              "value": 178390,
+              "salary": 143870
+            },
+            {
+              "name": "Food Service Managers",
+              "value": 201470,
+              "salary": 56010
+            },
+            {
+              "name": "Funeral Service Managers",
+              "value": 8370,
+              "salary": 88970
+            },
+            {
+              "name": "Gaming Managers",
+              "value": 4280,
+              "salary": 79690
+            },
+            {
+              "name": "Lodging Managers",
+              "value": 35410,
+              "salary": 59410
+            },
+            {
+              "name": "Medical and Health Services Managers",
+              "value": 332150,
+              "salary": 109370
+            },
+            {
+              "name": "Natural Sciences Managers",
+              "value": 54780,
+              "salary": 136150
+            },
+            {
+              "name": "Postmasters and Mail Superintendents",
+              "value": 14720,
+              "salary": 71980
+            },
+            {
+              "name": "Property, Real Estate, and Community Association Managers",
+              "value": 180290,
+              "salary": 70290
+            },
+            {
+              "name": "Social and Community Service Managers",
+              "value": 126230,
+              "salary": 70870
+            },
+            {
+              "name": "Emergency Management Directors",
+              "value": 9570,
+              "salary": 78060
+            },
+            {
+              "name": "Managers, All Other",
+              "value": 403670,
+              "salary": 112150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business and Financial Operations Occupations",
+      "salary": 75070,
+      "children": [
+        {
+          "name": "Business Operations Specialists",
+          "salary": 71840,
+          "children": [
+            {
+              "name": "Agents and Business Managers of Artists, Performers, and Athletes",
+              "value": 13470,
+              "salary": 86560
+            },
+            {
+              "name": "Buyers and Purchasing Agents, Farm Products",
+              "value": 11490,
+              "salary": 63910
+            },
+            {
+              "name": "Wholesale and Retail Buyers, Except Farm Products",
+              "value": 109440,
+              "salary": 60040
+            },
+            {
+              "name": "Purchasing Agents, Except Wholesale, Retail, and Farm Products",
+              "value": 297600,
+              "salary": 67420
+            },
+            {
+              "name": "Claims Adjusters, Examiners, and Investigators",
+              "value": 274420,
+              "salary": 64990
+            },
+            {
+              "name": "Insurance Appraisers, Auto Damage",
+              "value": 15130,
+              "salary": 65930
+            },
+            {
+              "name": "Compliance Officers",
+              "value": 273910,
+              "salary": 70250
+            },
+            {
+              "name": "Cost Estimators",
+              "value": 214610,
+              "salary": 66620
+            },
+            {
+              "name": "Human Resources Specialists",
+              "value": 524800,
+              "salary": 64890
+            },
+            {
+              "name": "Farm Labor Contractors",
+              "value": 810,
+              "salary": 47290
+            },
+            {
+              "name": "Labor Relations Specialists",
+              "value": 79430,
+              "salary": 64250
+            },
+            {
+              "name": "Logisticians",
+              "value": 146060,
+              "salary": 77810
+            },
+            {
+              "name": "Management Analysts",
+              "value": 637690,
+              "salary": 91910
+            },
+            {
+              "name": "Meeting, Convention, and Event Planners",
+              "value": 95850,
+              "salary": 52020
+            },
+            {
+              "name": "Fundraisers",
+              "value": 68910,
+              "salary": 57930
+            },
+            {
+              "name": "Compensation, Benefits, and Job Analysis Specialists",
+              "value": 79190,
+              "salary": 66490
+            },
+            {
+              "name": "Training and Development Specialists",
+              "value": 269710,
+              "salary": 63350
+            },
+            {
+              "name": "Market Research Analysts and Marketing Specialists",
+              "value": 558630,
+              "salary": 70620
+            },
+            {
+              "name": "Business Operations Specialists, All Other",
+              "value": 958670,
+              "salary": 74870
+            }
+          ]
+        },
+        {
+          "name": "Financial Specialists",
+          "salary": 80700,
+          "children": [
+            {
+              "name": "Accountants and Auditors",
+              "value": 1246540,
+              "salary": 76730
+            },
+            {
+              "name": "Appraisers and Assessors of Real Estate",
+              "value": 60770,
+              "salary": 58030
+            },
+            {
+              "name": "Budget Analysts",
+              "value": 54700,
+              "salary": 77170
+            },
+            {
+              "name": "Credit Analysts",
+              "value": 72930,
+              "salary": 81160
+            },
+            {
+              "name": "Financial Analysts",
+              "value": 281610,
+              "salary": 97640
+            },
+            {
+              "name": "Personal Financial Advisors",
+              "value": 201850,
+              "salary": 123100
+            },
+            {
+              "name": "Insurance Underwriters",
+              "value": 91650,
+              "salary": 75480
+            },
+            {
+              "name": "Financial Examiners",
+              "value": 49750,
+              "salary": 88940
+            },
+            {
+              "name": "Credit Counselors",
+              "value": 34110,
+              "salary": 49480
+            },
+            {
+              "name": "Loan Officers",
+              "value": 305700,
+              "salary": 76260
+            },
+            {
+              "name": "Tax Examiners and Collectors, and Revenue Agents",
+              "value": 58450,
+              "salary": 57950
+            },
+            {
+              "name": "Tax Preparers",
+              "value": 70030,
+              "salary": 45340
+            },
+            {
+              "name": "Financial Specialists, All Other",
+              "value": 123270,
+              "salary": 76230
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer and Mathematical Occupations",
+      "salary": 87880,
+      "children": [
+        {
+          "name": "Computer Occupations",
+          "salary": 87870,
+          "children": []
+        },
+        {
+          "name": "Mathematical Science Occupations",
+          "salary": 88230,
+          "children": [
+            {
+              "name": "Actuaries",
+              "value": 19940,
+              "salary": 114120
+            },
+            {
+              "name": "Mathematicians",
+              "value": 2730,
+              "salary": 105600
+            },
+            {
+              "name": "Operations Research Analysts",
+              "value": 109150,
+              "salary": 84340
+            },
+            {
+              "name": "Statisticians",
+              "value": 33440,
+              "salary": 85160
+            },
+            {
+              "name": "Mathematical Technicians",
+              "value": 510,
+              "salary": 58490
+            },
+            {
+              "name": "Mathematical Science Occupations, All Other",
+              "value": 2000,
+              "salary": 77550
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Architecture and Engineering Occupations",
+      "salary": 84300,
+      "children": [
+        {
+          "name": "Architects, Surveyors, and Cartographers",
+          "salary": 76260,
+          "children": [
+            {
+              "name": "Architects, Except Landscape and Naval",
+              "value": 99860,
+              "salary": 84470
+            },
+            {
+              "name": "Landscape Architects",
+              "value": 19420,
+              "salary": 68820
+            },
+            {
+              "name": "Cartographers and Photogrammetrists",
+              "value": 12100,
+              "salary": 66160
+            },
+            {
+              "name": "Surveyors",
+              "value": 43340,
+              "salary": 63480
+            }
+          ]
+        },
+        {
+          "name": "Engineers",
+          "salary": 96440,
+          "children": [
+            {
+              "name": "Aerospace Engineers",
+              "value": 68510,
+              "salary": 112010
+            },
+            {
+              "name": "Agricultural Engineers",
+              "value": 1980,
+              "salary": 77330
+            },
+            {
+              "name": "Biomedical Engineers",
+              "value": 20590,
+              "salary": 89970
+            },
+            {
+              "name": "Chemical Engineers",
+              "value": 31990,
+              "salary": 105420
+            },
+            {
+              "name": "Civil Engineers",
+              "value": 287800,
+              "salary": 89730
+            },
+            {
+              "name": "Computer Hardware Engineers",
+              "value": 72950,
+              "salary": 118700
+            },
+            {
+              "name": "Electrical Engineers",
+              "value": 183770,
+              "salary": 98620
+            },
+            {
+              "name": "Electronics Engineers, Except Computer",
+              "value": 132100,
+              "salary": 103760
+            },
+            {
+              "name": "Environmental Engineers",
+              "value": 52280,
+              "salary": 88530
+            },
+            {
+              "name": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+              "value": 25410,
+              "salary": 90190
+            },
+            {
+              "name": "Industrial Engineers",
+              "value": 256550,
+              "salary": 88530
+            },
+            {
+              "name": "Marine Engineers and Naval Architects",
+              "value": 8120,
+              "salary": 99860
+            },
+            {
+              "name": "Materials Engineers",
+              "value": 26800,
+              "salary": 97050
+            },
+            {
+              "name": "Mechanical Engineers",
+              "value": 285790,
+              "salary": 89800
+            },
+            {
+              "name": "Mining and Geological Engineers, Including Mining Safety Engineers",
+              "value": 6940,
+              "salary": 103010
+            },
+            {
+              "name": "Nuclear Engineers",
+              "value": 17680,
+              "salary": 105950
+            },
+            {
+              "name": "Petroleum Engineers",
+              "value": 32780,
+              "salary": 147030
+            },
+            {
+              "name": "Engineers, All Other",
+              "value": 123390,
+              "salary": 99250
+            }
+          ]
+        },
+        {
+          "name": "Drafters, Engineering Technicians, and Mapping Technicians",
+          "salary": 57530,
+          "children": [
+            {
+              "name": "Architectural and Civil Drafters",
+              "value": 96810,
+              "salary": 54290
+            },
+            {
+              "name": "Electrical and Electronics Drafters",
+              "value": 26750,
+              "salary": 63390
+            },
+            {
+              "name": "Mechanical Drafters",
+              "value": 63630,
+              "salary": 57480
+            },
+            {
+              "name": "Drafters, All Other",
+              "value": 15530,
+              "salary": 54410
+            },
+            {
+              "name": "Aerospace Engineering and Operations Technicians",
+              "value": 11970,
+              "salary": 71070
+            },
+            {
+              "name": "Civil Engineering Technicians",
+              "value": 72150,
+              "salary": 52120
+            },
+            {
+              "name": "Electrical and Electronics Engineering Technicians",
+              "value": 134870,
+              "salary": 62950
+            },
+            {
+              "name": "Electro-Mechanical Technicians",
+              "value": 13710,
+              "salary": 57860
+            },
+            {
+              "name": "Environmental Engineering Technicians",
+              "value": 16550,
+              "salary": 52500
+            },
+            {
+              "name": "Industrial Engineering Technicians",
+              "value": 63220,
+              "salary": 56920
+            },
+            {
+              "name": "Mechanical Engineering Technicians",
+              "value": 45510,
+              "salary": 57180
+            },
+            {
+              "name": "Engineering Technicians, Except Drafters, All Other",
+              "value": 74290,
+              "salary": 64050
+            },
+            {
+              "name": "Surveying and Mapping Technicians",
+              "value": 53920,
+              "salary": 45490
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Life, Physical, and Social Science Occupations",
+      "salary": 72930,
+      "children": [
+        {
+          "name": "Life Scientists",
+          "salary": 83080,
+          "children": [
+            {
+              "name": "Animal Scientists",
+              "value": 2470,
+              "salary": 72890
+            },
+            {
+              "name": "Food Scientists and Technologists",
+              "value": 14200,
+              "salary": 71270
+            },
+            {
+              "name": "Soil and Plant Scientists",
+              "value": 14690,
+              "salary": 69290
+            },
+            {
+              "name": "Biochemists and Biophysicists",
+              "value": 29200,
+              "salary": 94340
+            },
+            {
+              "name": "Microbiologists",
+              "value": 21670,
+              "salary": 76850
+            },
+            {
+              "name": "Zoologists and Wildlife Biologists",
+              "value": 17720,
+              "salary": 64890
+            },
+            {
+              "name": "Biological Scientists, All Other",
+              "value": 35110,
+              "salary": 77830
+            },
+            {
+              "name": "Conservation Scientists",
+              "value": 20470,
+              "salary": 65130
+            },
+            {
+              "name": "Foresters",
+              "value": 8420,
+              "salary": 60300
+            },
+            {
+              "name": "Epidemiologists",
+              "value": 5690,
+              "salary": 77720
+            },
+            {
+              "name": "Medical Scientists, Except Epidemiologists",
+              "value": 108870,
+              "salary": 95000
+            },
+            {
+              "name": "Life Scientists, All Other",
+              "value": 7890,
+              "salary": 83150
+            }
+          ]
+        },
+        {
+          "name": "Physical Scientists",
+          "salary": 87310,
+          "children": [
+            {
+              "name": "Astronomers",
+              "value": 1830,
+              "salary": 110380
+            },
+            {
+              "name": "Physicists",
+              "value": 16680,
+              "salary": 121770
+            },
+            {
+              "name": "Atmospheric and Space Scientists",
+              "value": 9800,
+              "salary": 94840
+            },
+            {
+              "name": "Chemists",
+              "value": 86660,
+              "salary": 80820
+            },
+            {
+              "name": "Materials Scientists",
+              "value": 7750,
+              "salary": 101570
+            },
+            {
+              "name": "Environmental Scientists and Specialists, Including Health",
+              "value": 84250,
+              "salary": 75360
+            },
+            {
+              "name": "Geoscientists, Except Hydrologists and Geographers",
+              "value": 30420,
+              "salary": 106390
+            },
+            {
+              "name": "Hydrologists",
+              "value": 6300,
+              "salary": 83740
+            },
+            {
+              "name": "Physical Scientists, All Other",
+              "value": 18960,
+              "salary": 98460
+            }
+          ]
+        },
+        {
+          "name": "Social Scientists and Related Workers",
+          "salary": 81380,
+          "children": [
+            {
+              "name": "Economists",
+              "value": 19380,
+              "salary": 112860
+            },
+            {
+              "name": "Survey Researchers",
+              "value": 11930,
+              "salary": 59950
+            },
+            {
+              "name": "Clinical, Counseling, and School Psychologists",
+              "value": 107980,
+              "salary": 78690
+            },
+            {
+              "name": "Industrial-Organizational Psychologists",
+              "value": 1020,
+              "salary": 104570
+            },
+            {
+              "name": "Psychologists, All Other",
+              "value": 13310,
+              "salary": 94650
+            },
+            {
+              "name": "Sociologists",
+              "value": 2870,
+              "salary": 86840
+            },
+            {
+              "name": "Urban and Regional Planners",
+              "value": 34810,
+              "salary": 73060
+            },
+            {
+              "name": "Anthropologists and Archeologists",
+              "value": 6470,
+              "salary": 66440
+            },
+            {
+              "name": "Geographers",
+              "value": 1370,
+              "salary": 74090
+            },
+            {
+              "name": "Historians",
+              "value": 2950,
+              "salary": 60990
+            },
+            {
+              "name": "Political Scientists",
+              "value": 6350,
+              "salary": 112250
+            },
+            {
+              "name": "Social Scientists and Related Workers, All Other",
+              "value": 36380,
+              "salary": 80860
+            }
+          ]
+        },
+        {
+          "name": "Life, Physical, and Social Science Technicians",
+          "salary": 48550,
+          "children": [
+            {
+              "name": "Agricultural and Food Science Technicians",
+              "value": 20420,
+              "salary": 40470
+            },
+            {
+              "name": "Biological Technicians",
+              "value": 74720,
+              "salary": 46130
+            },
+            {
+              "name": "Chemical Technicians",
+              "value": 65510,
+              "salary": 49770
+            },
+            {
+              "name": "Geological and Petroleum Technicians",
+              "value": 15100,
+              "salary": 62240
+            },
+            {
+              "name": "Nuclear Technicians",
+              "value": 6840,
+              "salary": 77820
+            },
+            {
+              "name": "Social Science Research Assistants",
+              "value": 30030,
+              "salary": 46820
+            },
+            {
+              "name": "Environmental Science and Protection Technicians, Including Health",
+              "value": 32950,
+              "salary": 47930
+            },
+            {
+              "name": "Forensic Science Technicians",
+              "value": 14800,
+              "salary": 60690
+            },
+            {
+              "name": "Forest and Conservation Technicians",
+              "value": 30090,
+              "salary": 38630
+            },
+            {
+              "name": "Life, Physical, and Social Science Technicians, All Other",
+              "value": 68540,
+              "salary": 49270
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Community and Social Service Occupations",
+      "salary": 47200,
+      "children": [
+        {
+          "name": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+          "salary": 47220,
+          "children": [
+            {
+              "name": "Substance Abuse and Behavioral Disorder Counselors",
+              "value": 91040,
+              "salary": 44160
+            },
+            {
+              "name": "Educational, Guidance, School, and Vocational Counselors",
+              "value": 260670,
+              "salary": 57620
+            },
+            {
+              "name": "Marriage and Family Therapists",
+              "value": 36960,
+              "salary": 54090
+            },
+            {
+              "name": "Mental Health Counselors",
+              "value": 139820,
+              "salary": 46050
+            },
+            {
+              "name": "Rehabilitation Counselors",
+              "value": 103030,
+              "salary": 38740
+            },
+            {
+              "name": "Counselors, All Other",
+              "value": 28380,
+              "salary": 47640
+            },
+            {
+              "name": "Child, Family, and School Social Workers",
+              "value": 298840,
+              "salary": 47510
+            },
+            {
+              "name": "Healthcare Social Workers",
+              "value": 159310,
+              "salary": 55510
+            },
+            {
+              "name": "Mental Health and Substance Abuse Social Workers",
+              "value": 114040,
+              "salary": 47880
+            },
+            {
+              "name": "Social Workers, All Other",
+              "value": 59540,
+              "salary": 59410
+            },
+            {
+              "name": "Health Educators",
+              "value": 57570,
+              "salary": 57900
+            },
+            {
+              "name": "Probation Officers and Correctional Treatment Specialists",
+              "value": 87500,
+              "salary": 55380
+            },
+            {
+              "name": "Social and Human Service Assistants",
+              "value": 360650,
+              "salary": 34120
+            },
+            {
+              "name": "Community Health Workers",
+              "value": 51900,
+              "salary": 41170
+            },
+            {
+              "name": "Community and Social Service Specialists, All Other",
+              "value": 91860,
+              "salary": 45540
+            }
+          ]
+        },
+        {
+          "name": "Religious Workers",
+          "salary": 46630,
+          "children": [
+            {
+              "name": "Clergy",
+              "value": 49320,
+              "salary": 49450
+            },
+            {
+              "name": "Directors, Religious Activities and Education",
+              "value": 20590,
+              "salary": 44840
+            },
+            {
+              "name": "Religious Workers, All Other",
+              "value": 8250,
+              "salary": 34300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Legal Occupations",
+      "salary": 105980,
+      "children": [
+        {
+          "name": "Lawyers, Judges, and Related Workers",
+          "salary": 135760,
+          "children": [
+            {
+              "name": "Lawyers",
+              "value": 619530,
+              "salary": 139880
+            },
+            {
+              "name": "Judicial Law Clerks",
+              "value": 13410,
+              "salary": 59840
+            },
+            {
+              "name": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+              "value": 14540,
+              "salary": 95240
+            },
+            {
+              "name": "Arbitrators, Mediators, and Conciliators",
+              "value": 6300,
+              "salary": 72730
+            },
+            {
+              "name": "Judges, Magistrate Judges, and Magistrates",
+              "value": 27210,
+              "salary": 115460
+            }
+          ]
+        },
+        {
+          "name": "Legal Support Workers",
+          "salary": 54590,
+          "children": [
+            {
+              "name": "Paralegals and Legal Assistants",
+              "value": 277310,
+              "salary": 53180
+            },
+            {
+              "name": "Court Reporters",
+              "value": 17700,
+              "salary": 56940
+            },
+            {
+              "name": "Title Examiners, Abstractors, and Searchers",
+              "value": 54560,
+              "salary": 51490
+            },
+            {
+              "name": "Legal Support Workers, All Other",
+              "value": 44960,
+              "salary": 66170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Education, Training, and Library Occupations",
+      "salary": 54520,
+      "children": [
+        {
+          "name": "Postsecondary Teachers",
+          "salary": 81880,
+          "children": [
+            {
+              "name": "Business Teachers, Postsecondary",
+              "value": 83030,
+              "salary": 96770
+            },
+            {
+              "name": "Computer Science Teachers, Postsecondary",
+              "value": 32540,
+              "salary": 89670
+            },
+            {
+              "name": "Mathematical Science Teachers, Postsecondary",
+              "value": 52020,
+              "salary": 82650
+            },
+            {
+              "name": "Architecture Teachers, Postsecondary",
+              "value": 7370,
+              "salary": 92890
+            },
+            {
+              "name": "Engineering Teachers, Postsecondary",
+              "value": 38000,
+              "salary": 107490
+            },
+            {
+              "name": "Agricultural Sciences Teachers, Postsecondary",
+              "value": 10340,
+              "salary": 96630
+            },
+            {
+              "name": "Biological Science Teachers, Postsecondary",
+              "value": 50820,
+              "salary": 90420
+            },
+            {
+              "name": "Forestry and Conservation Science Teachers, Postsecondary",
+              "value": 1750,
+              "salary": 90480
+            },
+            {
+              "name": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+              "value": 10850,
+              "salary": 95900
+            },
+            {
+              "name": "Chemistry Teachers, Postsecondary",
+              "value": 21250,
+              "salary": 89320
+            },
+            {
+              "name": "Environmental Science Teachers, Postsecondary",
+              "value": 5520,
+              "salary": 88880
+            },
+            {
+              "name": "Physics Teachers, Postsecondary",
+              "value": 14160,
+              "salary": 97520
+            },
+            {
+              "name": "Anthropology and Archeology Teachers, Postsecondary",
+              "value": 5700,
+              "salary": 91940
+            },
+            {
+              "name": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+              "value": 9060,
+              "salary": 84590
+            },
+            {
+              "name": "Economics Teachers, Postsecondary",
+              "value": 13060,
+              "salary": 111520
+            },
+            {
+              "name": "Geography Teachers, Postsecondary",
+              "value": 4140,
+              "salary": 84660
+            },
+            {
+              "name": "Political Science Teachers, Postsecondary",
+              "value": 16720,
+              "salary": 94090
+            },
+            {
+              "name": "Psychology Teachers, Postsecondary",
+              "value": 37640,
+              "salary": 84440
+            },
+            {
+              "name": "Sociology Teachers, Postsecondary",
+              "value": 14580,
+              "salary": 81600
+            },
+            {
+              "name": "Social Sciences Teachers, Postsecondary, All Other",
+              "value": 13320,
+              "salary": 85950
+            },
+            {
+              "name": "Health Specialties Teachers, Postsecondary",
+              "value": 186740,
+              "salary": 125430
+            },
+            {
+              "name": "Nursing Instructors and Teachers, Postsecondary",
+              "value": 56210,
+              "salary": 75030
+            },
+            {
+              "name": "Education Teachers, Postsecondary",
+              "value": 58850,
+              "salary": 70260
+            },
+            {
+              "name": "Library Science Teachers, Postsecondary",
+              "value": 4870,
+              "salary": 72340
+            },
+            {
+              "name": "Criminal Justice and Law Enforcement Teachers, Postsecondary",
+              "value": 14620,
+              "salary": 67040
+            },
+            {
+              "name": "Law Teachers, Postsecondary",
+              "value": 16010,
+              "salary": 134530
+            },
+            {
+              "name": "Social Work Teachers, Postsecondary",
+              "value": 11860,
+              "salary": 74280
+            },
+            {
+              "name": "Art, Drama, and Music Teachers, Postsecondary",
+              "value": 99020,
+              "salary": 81050
+            },
+            {
+              "name": "Communications Teachers, Postsecondary",
+              "value": 28180,
+              "salary": 74360
+            },
+            {
+              "name": "English Language and Literature Teachers, Postsecondary",
+              "value": 71270,
+              "salary": 76140
+            },
+            {
+              "name": "Foreign Language and Literature Teachers, Postsecondary",
+              "value": 28720,
+              "salary": 73750
+            },
+            {
+              "name": "History Teachers, Postsecondary",
+              "value": 21800,
+              "salary": 80880
+            },
+            {
+              "name": "Philosophy and Religion Teachers, Postsecondary",
+              "value": 23180,
+              "salary": 77420
+            },
+            {
+              "name": "Graduate Teaching Assistants",
+              "value": 135130,
+              "salary": 35810
+            },
+            {
+              "name": "Home Economics Teachers, Postsecondary",
+              "value": 2970,
+              "salary": 72790
+            },
+            {
+              "name": "Recreation and Fitness Studies Teachers, Postsecondary",
+              "value": 17390,
+              "salary": 67870
+            },
+            {
+              "name": "Vocational Education Teachers, Postsecondary",
+              "value": 116430,
+              "salary": 55730
+            },
+            {
+              "name": "Postsecondary Teachers, All Other",
+              "value": 194870,
+              "salary": 73990
+            }
+          ]
+        },
+        {
+          "name": "Preschool, Primary, Secondary, and Special Education School Teachers",
+          "salary": 57470,
+          "children": [
+            {
+              "name": "Preschool Teachers, Except Special Education",
+              "value": 385550,
+              "salary": 33300
+            },
+            {
+              "name": "Kindergarten Teachers, Except Special Education",
+              "value": 151290,
+              "salary": 55460
+            },
+            {
+              "name": "Elementary School Teachers, Except Special Education",
+              "value": 1392660,
+              "salary": 59020
+            },
+            {
+              "name": "Middle School Teachers, Except Special and Career/Technical Education",
+              "value": 626310,
+              "salary": 59800
+            },
+            {
+              "name": "Career/Technical Education Teachers, Middle School",
+              "value": 12730,
+              "salary": 60350
+            },
+            {
+              "name": "Secondary School Teachers, Except Special and Career/Technical Education",
+              "value": 1003250,
+              "salary": 61420
+            },
+            {
+              "name": "Career/Technical Education Teachers, Secondary School",
+              "value": 80100,
+              "salary": 59480
+            },
+            {
+              "name": "Special Education Teachers, Preschool",
+              "value": 28140,
+              "salary": 56990
+            },
+            {
+              "name": "Special Education Teachers, Kindergarten and Elementary School",
+              "value": 190530,
+              "salary": 60090
+            },
+            {
+              "name": "Special Education Teachers, Middle School",
+              "value": 90250,
+              "salary": 61910
+            },
+            {
+              "name": "Special Education Teachers, Secondary School",
+              "value": 132490,
+              "salary": 64020
+            },
+            {
+              "name": "Special Education Teachers, All Other",
+              "value": 40190,
+              "salary": 59450
+            }
+          ]
+        },
+        {
+          "name": "Other Teachers and Instructors",
+          "salary": 38560,
+          "children": [
+            {
+              "name": "Adult Basic and Secondary Education and Literacy Teachers and Instructors",
+              "value": 58810,
+              "salary": 55140
+            },
+            {
+              "name": "Self-Enrichment Education Teachers",
+              "value": 229840,
+              "salary": 43150
+            },
+            {
+              "name": "Teachers and Instructors, All Other, Except Substitute Teachers",
+              "value": 292950,
+              "salary": 47570
+            },
+            {
+              "name": "Substitute Teachers",
+              "value": 609960,
+              "salary": 30900
+            }
+          ]
+        },
+        {
+          "name": "Librarians, Curators, and Archivists",
+          "salary": 49700,
+          "children": [
+            {
+              "name": "Archivists",
+              "value": 5760,
+              "salary": 54570
+            },
+            {
+              "name": "Curators",
+              "value": 11170,
+              "salary": 58910
+            },
+            {
+              "name": "Museum Technicians and Conservators",
+              "value": 10970,
+              "salary": 44780
+            },
+            {
+              "name": "Librarians",
+              "value": 129350,
+              "salary": 59870
+            },
+            {
+              "name": "Library Technicians",
+              "value": 93410,
+              "salary": 34780
+            }
+          ]
+        },
+        {
+          "name": "Other Education, Training, and Library Occupations",
+          "salary": 32420,
+          "children": [
+            {
+              "name": "Audio-Visual and Multimedia Collections Specialists",
+              "value": 10300,
+              "salary": 50130
+            },
+            {
+              "name": "Farm and Home Management Advisors",
+              "value": 8620,
+              "salary": 52150
+            },
+            {
+              "name": "Instructional Coordinators",
+              "value": 147330,
+              "salary": 65500
+            },
+            {
+              "name": "Teacher Assistants",
+              "value": 1263820,
+              "salary": 27120
+            },
+            {
+              "name": "Education, Training, and Library Workers, All Other",
+              "value": 100640,
+              "salary": 46970
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "salary": 58390,
+      "children": [
+        {
+          "name": "Art and Design Workers",
+          "salary": 52660,
+          "children": [
+            {
+              "name": "Art Directors",
+              "value": 36210,
+              "salary": 101170
+            },
+            {
+              "name": "Craft Artists",
+              "value": 5070,
+              "salary": 38900
+            },
+            {
+              "name": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+              "value": 11520,
+              "salary": 57410
+            },
+            {
+              "name": "Multimedia Artists and Animators",
+              "value": 29810,
+              "salary": 72200
+            },
+            {
+              "name": "Artists and Related Workers, All Other",
+              "value": 7010,
+              "salary": 64630
+            },
+            {
+              "name": "Commercial and Industrial Designers",
+              "value": 31860,
+              "salary": 70880
+            },
+            {
+              "name": "Fashion Designers",
+              "value": 19230,
+              "salary": 76480
+            },
+            {
+              "name": "Floral Designers",
+              "value": 43990,
+              "salary": 27610
+            },
+            {
+              "name": "Graphic Designers",
+              "value": 210710,
+              "salary": 52290
+            },
+            {
+              "name": "Interior Designers",
+              "value": 53160,
+              "salary": 56220
+            },
+            {
+              "name": "Merchandise Displayers and Window Trimmers",
+              "value": 114690,
+              "salary": 30090
+            },
+            {
+              "name": "Set and Exhibit Designers",
+              "value": 12060,
+              "salary": 57600
+            },
+            {
+              "name": "Designers, All Other",
+              "value": 7230,
+              "salary": 63270
+            }
+          ]
+        },
+        {
+          "name": "Entertainers and Performers, Sports and Related Workers",
+          "salary": 60910,
+          "children": [
+            {
+              "name": "Actors",
+              "value": 48620,
+              "salary": null
+            },
+            {
+              "name": "Producers and Directors",
+              "value": 114510,
+              "salary": 93840
+            },
+            {
+              "name": "Athletes and Sports Competitors",
+              "value": 10260,
+              "salary": 83730
+            },
+            {
+              "name": "Coaches and Scouts",
+              "value": 230930,
+              "salary": 41000
+            },
+            {
+              "name": "Umpires, Referees, and Other Sports Officials",
+              "value": 18660,
+              "salary": 35540
+            },
+            {
+              "name": "Dancers",
+              "value": 10060,
+              "salary": null
+            },
+            {
+              "name": "Choreographers",
+              "value": 5160,
+              "salary": 53610
+            },
+            {
+              "name": "Music Directors and Composers",
+              "value": 18380,
+              "salary": 60630
+            },
+            {
+              "name": "Musicians and Singers",
+              "value": 40110,
+              "salary": null
+            },
+            {
+              "name": "Entertainers and Performers, Sports and Related Workers, All Other",
+              "value": 13150,
+              "salary": null
+            }
+          ]
+        },
+        {
+          "name": "Media and Communication Workers",
+          "salary": 63130,
+          "children": [
+            {
+              "name": "Radio and Television Announcers",
+              "value": 29210,
+              "salary": 48170
+            },
+            {
+              "name": "Public Address System and Other Announcers",
+              "value": 8020,
+              "salary": 42740
+            },
+            {
+              "name": "Broadcast News Analysts",
+              "value": 5070,
+              "salary": 78200
+            },
+            {
+              "name": "Reporters and Correspondents",
+              "value": 40090,
+              "salary": 49770
+            },
+            {
+              "name": "Public Relations Specialists",
+              "value": 226940,
+              "salary": 66540
+            },
+            {
+              "name": "Editors",
+              "value": 97170,
+              "salary": 66080
+            },
+            {
+              "name": "Technical Writers",
+              "value": 49780,
+              "salary": 73160
+            },
+            {
+              "name": "Writers and Authors",
+              "value": 44690,
+              "salary": 71920
+            },
+            {
+              "name": "Interpreters and Translators",
+              "value": 51350,
+              "salary": 51260
+            },
+            {
+              "name": "Media and Communication Workers, All Other",
+              "value": 23310,
+              "salary": 50860
+            }
+          ]
+        },
+        {
+          "name": "Media and Communication Equipment Workers",
+          "salary": 55520,
+          "children": [
+            {
+              "name": "Audio and Video Equipment Technicians",
+              "value": 69670,
+              "salary": 47450
+            },
+            {
+              "name": "Broadcast Technicians",
+              "value": 30330,
+              "salary": 45430
+            },
+            {
+              "name": "Radio Operators",
+              "value": 870,
+              "salary": 46780
+            },
+            {
+              "name": "Sound Engineering Technicians",
+              "value": 15210,
+              "salary": 65240
+            },
+            {
+              "name": "Photographers",
+              "value": 48660,
+              "salary": 42640
+            },
+            {
+              "name": "Camera Operators, Television, Video, and Motion Picture",
+              "value": 21710,
+              "salary": 63200
+            },
+            {
+              "name": "Film and Video Editors",
+              "value": 29880,
+              "salary": 82190
+            },
+            {
+              "name": "Media and Communication Equipment Workers, All Other",
+              "value": 18620,
+              "salary": 76500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Healthcare Practitioners and Technical Occupations",
+      "salary": 79160,
+      "children": [
+        {
+          "name": "Health Diagnosing and Treating Practitioners",
+          "salary": 98830,
+          "children": [
+            {
+              "name": "Chiropractors",
+              "value": 32960,
+              "salary": 81210
+            },
+            {
+              "name": "Dentists, General",
+              "value": 105620,
+              "salary": 173860
+            },
+            {
+              "name": "Oral and Maxillofacial Surgeons",
+              "value": 5380,
+              "salary": 232870
+            },
+            {
+              "name": "Orthodontists",
+              "value": 5200,
+              "salary": 228780
+            },
+            {
+              "name": "Prosthodontists",
+              "value": 750,
+              "salary": 168140
+            },
+            {
+              "name": "Dentists, All Other Specialists",
+              "value": 5380,
+              "salary": 171900
+            },
+            {
+              "name": "Dietitians and Nutritionists",
+              "value": 61430,
+              "salary": 59670
+            },
+            {
+              "name": "Optometrists",
+              "value": 36430,
+              "salary": 117580
+            },
+            {
+              "name": "Pharmacists",
+              "value": 305510,
+              "salary": 120270
+            },
+            {
+              "name": "Anesthesiologists",
+              "value": 30190,
+              "salary": 269600
+            },
+            {
+              "name": "Family and General Practitioners",
+              "value": 122970,
+              "salary": 200810
+            },
+            {
+              "name": "Internists, General",
+              "value": 45290,
+              "salary": 201840
+            },
+            {
+              "name": "Obstetricians and Gynecologists",
+              "value": 19800,
+              "salary": 234310
+            },
+            {
+              "name": "Pediatricians, General",
+              "value": 26960,
+              "salary": 184240
+            },
+            {
+              "name": "Psychiatrists",
+              "value": 24820,
+              "salary": 200220
+            },
+            {
+              "name": "Surgeons",
+              "value": 41190,
+              "salary": 252910
+            },
+            {
+              "name": "Physicians and Surgeons, All Other",
+              "value": 338620,
+              "salary": 205560
+            },
+            {
+              "name": "Physician Assistants",
+              "value": 104050,
+              "salary": 102090
+            },
+            {
+              "name": "Podiatrists",
+              "value": 9800,
+              "salary": 144110
+            },
+            {
+              "name": "Occupational Therapists",
+              "value": 118070,
+              "salary": 83730
+            },
+            {
+              "name": "Physical Therapists",
+              "value": 216920,
+              "salary": 87220
+            },
+            {
+              "name": "Radiation Therapists",
+              "value": 17450,
+              "salary": 84980
+            },
+            {
+              "name": "Recreational Therapists",
+              "value": 18100,
+              "salary": 48190
+            },
+            {
+              "name": "Respiratory Therapists",
+              "value": 126770,
+              "salary": 60640
+            },
+            {
+              "name": "Speech-Language Pathologists",
+              "value": 135980,
+              "salary": 78210
+            },
+            {
+              "name": "Exercise Physiologists",
+              "value": 6880,
+              "salary": 50310
+            },
+            {
+              "name": "Therapists, All Other",
+              "value": 11320,
+              "salary": 60590
+            },
+            {
+              "name": "Veterinarians",
+              "value": 67650,
+              "salary": 100560
+            },
+            {
+              "name": "Registered Nurses",
+              "value": 2857180,
+              "salary": 72180
+            },
+            {
+              "name": "Nurse Anesthetists",
+              "value": 39860,
+              "salary": 164030
+            },
+            {
+              "name": "Nurse Midwives",
+              "value": 6270,
+              "salary": 102390
+            },
+            {
+              "name": "Nurse Practitioners",
+              "value": 150230,
+              "salary": 104610
+            },
+            {
+              "name": "Audiologists",
+              "value": 12310,
+              "salary": 79290
+            },
+            {
+              "name": "Health Diagnosing and Treating Practitioners, All Other",
+              "value": 36280,
+              "salary": 84800
+            }
+          ]
+        },
+        {
+          "name": "Health Technologists and Technicians",
+          "salary": 46460,
+          "children": [
+            {
+              "name": "Medical and Clinical Laboratory Technologists",
+              "value": 166730,
+              "salary": 62440
+            },
+            {
+              "name": "Medical and Clinical Laboratory Technicians",
+              "value": 160190,
+              "salary": 41700
+            },
+            {
+              "name": "Dental Hygienists",
+              "value": 204990,
+              "salary": 73440
+            },
+            {
+              "name": "Cardiovascular Technologists and Technicians",
+              "value": 53760,
+              "salary": 57100
+            },
+            {
+              "name": "Diagnostic Medical Sonographers",
+              "value": 65790,
+              "salary": 71750
+            },
+            {
+              "name": "Nuclear Medicine Technologists",
+              "value": 19650,
+              "salary": 75960
+            },
+            {
+              "name": "Radiologic Technologists",
+              "value": 200650,
+              "salary": 59260
+            },
+            {
+              "name": "Magnetic Resonance Imaging Technologists",
+              "value": 35850,
+              "salary": 69240
+            },
+            {
+              "name": "Emergency Medical Technicians and Paramedics",
+              "value": 244960,
+              "salary": 36110
+            },
+            {
+              "name": "Dietetic Technicians",
+              "value": 32240,
+              "salary": 29360
+            },
+            {
+              "name": "Pharmacy Technicians",
+              "value": 398390,
+              "salary": 32170
+            },
+            {
+              "name": "Psychiatric Technicians",
+              "value": 61720,
+              "salary": 35870
+            },
+            {
+              "name": "Respiratory Therapy Technicians",
+              "value": 10600,
+              "salary": 50520
+            },
+            {
+              "name": "Surgical Technologists",
+              "value": 105720,
+              "salary": 46800
+            },
+            {
+              "name": "Veterinary Technologists and Technicians",
+              "value": 99390,
+              "salary": 33870
+            },
+            {
+              "name": "Ophthalmic Medical Technicians",
+              "value": 43990,
+              "salary": 37040
+            },
+            {
+              "name": "Licensed Practical and Licensed Vocational Nurses",
+              "value": 702400,
+              "salary": 44840
+            },
+            {
+              "name": "Medical Records and Health Information Technicians",
+              "value": 200140,
+              "salary": 41460
+            },
+            {
+              "name": "Opticians, Dispensing",
+              "value": 75270,
+              "salary": 37860
+            },
+            {
+              "name": "Orthotists and Prosthetists",
+              "value": 7500,
+              "salary": 69920
+            },
+            {
+              "name": "Hearing Aid Specialists",
+              "value": 6740,
+              "salary": 53000
+            },
+            {
+              "name": "Health Technologists and Technicians, All Other",
+              "value": 122170,
+              "salary": 46020
+            }
+          ]
+        },
+        {
+          "name": "Other Healthcare Practitioners and Technical Occupations",
+          "salary": 63250,
+          "children": [
+            {
+              "name": "Occupational Health and Safety Specialists",
+              "value": 76630,
+              "salary": 72480
+            },
+            {
+              "name": "Occupational Health and Safety Technicians",
+              "value": 16560,
+              "salary": 52520
+            },
+            {
+              "name": "Athletic Trainers",
+              "value": 24130,
+              "salary": 47880
+            },
+            {
+              "name": "Genetic Counselors",
+              "value": 2720,
+              "salary": 74960
+            },
+            {
+              "name": "Healthcare Practitioners and Technical Workers, All Other",
+              "value": 36000,
+              "salary": 57960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Healthcare Support Occupations",
+      "salary": 30470,
+      "children": [
+        {
+          "name": "Nursing, Psychiatric, and Home Health Aides",
+          "salary": 26320,
+          "children": [
+            {
+              "name": "Home Health Aides",
+              "value": 814300,
+              "salary": 23600
+            },
+            {
+              "name": "Psychiatric Aides",
+              "value": 67410,
+              "salary": 28770
+            },
+            {
+              "name": "Nursing Assistants",
+              "value": 1443150,
+              "salary": 27650
+            },
+            {
+              "name": "Orderlies",
+              "value": 52940,
+              "salary": 28550
+            }
+          ]
+        },
+        {
+          "name": "Occupational Therapy and Physical Therapist Assistants and Aides",
+          "salary": 48410,
+          "children": [
+            {
+              "name": "Occupational Therapy Assistants",
+              "value": 38170,
+              "salary": 59530
+            },
+            {
+              "name": "Occupational Therapy Aides",
+              "value": 7210,
+              "salary": 31840
+            },
+            {
+              "name": "Physical Therapist Assistants",
+              "value": 85580,
+              "salary": 56850
+            },
+            {
+              "name": "Physical Therapist Aides",
+              "value": 50030,
+              "salary": 27890
+            }
+          ]
+        },
+        {
+          "name": "Other Healthcare Support Occupations",
+          "salary": 34920,
+          "children": [
+            {
+              "name": "Massage Therapists",
+              "value": 95830,
+              "salary": 44480
+            },
+            {
+              "name": "Dental Assistants",
+              "value": 327290,
+              "salary": 37890
+            },
+            {
+              "name": "Medical Assistants",
+              "value": 623560,
+              "salary": 32850
+            },
+            {
+              "name": "Medical Equipment Preparers",
+              "value": 52500,
+              "salary": 35960
+            },
+            {
+              "name": "Medical Transcriptionists",
+              "value": 54070,
+              "salary": 37150
+            },
+            {
+              "name": "Pharmacy Aides",
+              "value": 36660,
+              "salary": 28420
+            },
+            {
+              "name": "Veterinary Assistants and Laboratory Animal Caretakers",
+              "value": 79990,
+              "salary": 26810
+            },
+            {
+              "name": "Phlebotomists",
+              "value": 120970,
+              "salary": 33750
+            },
+            {
+              "name": "Healthcare Support Workers, All Other",
+              "value": 93830,
+              "salary": 37720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Protective Service Occupations",
+      "salary": 45810,
+      "children": [
+        {
+          "name": "Supervisors of Protective Service Workers",
+          "salary": 72300,
+          "children": [
+            {
+              "name": "First-Line Supervisors of Correctional Officers",
+              "value": 43230,
+              "salary": 65100
+            },
+            {
+              "name": "First-Line Supervisors of Police and Detectives",
+              "value": 100200,
+              "salary": 88400
+            },
+            {
+              "name": "First-Line Supervisors of Fire Fighting and Prevention Workers",
+              "value": 57170,
+              "salary": 77050
+            },
+            {
+              "name": "First-Line Supervisors of Protective Service Workers, All Other",
+              "value": 72880,
+              "salary": 50690
+            }
+          ]
+        },
+        {
+          "name": "Fire Fighting and Prevention Workers",
+          "salary": 50890,
+          "children": [
+            {
+              "name": "Firefighters",
+              "value": 315910,
+              "salary": 50520
+            },
+            {
+              "name": "Fire Inspectors and Investigators",
+              "value": 11910,
+              "salary": 61660
+            },
+            {
+              "name": "Forest Fire Inspectors and Prevention Specialists",
+              "value": 1650,
+              "salary": 44300
+            }
+          ]
+        },
+        {
+          "name": "Law Enforcement Workers",
+          "salary": 58310,
+          "children": [
+            {
+              "name": "Bailiffs",
+              "value": 17880,
+              "salary": 45740
+            },
+            {
+              "name": "Correctional Officers and Jailers",
+              "value": 431600,
+              "salary": 46750
+            },
+            {
+              "name": "Detectives and Criminal Investigators",
+              "value": 104980,
+              "salary": 81490
+            },
+            {
+              "name": "Fish and Game Wardens",
+              "value": 6610,
+              "salary": 54760
+            },
+            {
+              "name": "Parking Enforcement Workers",
+              "value": 8920,
+              "salary": 39650
+            },
+            {
+              "name": "Police and Sheriff's Patrol Officers",
+              "value": 657690,
+              "salary": 62760
+            },
+            {
+              "name": "Transit and Railroad Police",
+              "value": 4810,
+              "salary": 67850
+            }
+          ]
+        },
+        {
+          "name": "Other Protective Service Workers",
+          "salary": 30130,
+          "children": [
+            {
+              "name": "Animal Control Workers",
+              "value": 12970,
+              "salary": 36600
+            },
+            {
+              "name": "Private Detectives and Investigators",
+              "value": 28490,
+              "salary": 53530
+            },
+            {
+              "name": "Gaming Surveillance Officers and Gaming Investigators",
+              "value": 10460,
+              "salary": 35280
+            },
+            {
+              "name": "Security Guards",
+              "value": 1103120,
+              "salary": 29730
+            },
+            {
+              "name": "Crossing Guards",
+              "value": 72900,
+              "salary": 29190
+            },
+            {
+              "name": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+              "value": 145100,
+              "salary": 22640
+            },
+            {
+              "name": "Transportation Security Screeners",
+              "value": 42750,
+              "salary": 40160
+            },
+            {
+              "name": "Protective Service Workers, All Other",
+              "value": 135120,
+              "salary": 32880
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Food Preparation and Serving Related Occupations",
+      "salary": 23850,
+      "children": [
+        {
+          "name": "Supervisors of Food Preparation and Serving Workers",
+          "salary": 36340,
+          "children": [
+            {
+              "name": "Chefs and Head Cooks",
+              "value": 134190,
+              "salary": 47390
+            },
+            {
+              "name": "First-Line Supervisors of Food Preparation and Serving Workers",
+              "value": 908550,
+              "salary": 34700
+            }
+          ]
+        },
+        {
+          "name": "Cooks and Food Preparation Workers",
+          "salary": 23990,
+          "children": [
+            {
+              "name": "Cooks, Fast Food",
+              "value": 513200,
+              "salary": 20570
+            },
+            {
+              "name": "Cooks, Institution and Cafeteria",
+              "value": 409850,
+              "salary": 26370
+            },
+            {
+              "name": "Cooks, Private Household",
+              "value": 370,
+              "salary": 42220
+            },
+            {
+              "name": "Cooks, Restaurant",
+              "value": 1217370,
+              "salary": 25430
+            },
+            {
+              "name": "Cooks, Short Order",
+              "value": 183990,
+              "salary": 23130
+            },
+            {
+              "name": "Cooks, All Other",
+              "value": 15490,
+              "salary": 29210
+            },
+            {
+              "name": "Food Preparation Workers",
+              "value": 850670,
+              "salary": 22920
+            }
+          ]
+        },
+        {
+          "name": "Food and Beverage Serving Workers",
+          "salary": 22430,
+          "children": [
+            {
+              "name": "Bartenders",
+              "value": 603320,
+              "salary": 25580
+            },
+            {
+              "name": "Combined Food Preparation and Serving Workers, Including Fast Food",
+              "value": 3426090,
+              "salary": 20460
+            },
+            {
+              "name": "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",
+              "value": 499550,
+              "salary": 21380
+            },
+            {
+              "name": "Waiters and Waitresses",
+              "value": 2564610,
+              "salary": 24410
+            },
+            {
+              "name": "Food Servers, Nonrestaurant",
+              "value": 261520,
+              "salary": 23490
+            }
+          ]
+        },
+        {
+          "name": "Other Food Preparation and Serving Related Workers",
+          "salary": 21710,
+          "children": [
+            {
+              "name": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+              "value": 423080,
+              "salary": 22340
+            },
+            {
+              "name": "Dishwashers",
+              "value": 506450,
+              "salary": 21260
+            },
+            {
+              "name": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+              "value": 404360,
+              "salary": 21410
+            },
+            {
+              "name": "Food Preparation and Serving Related Workers, All Other",
+              "value": 59060,
+              "salary": 23200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Building and Grounds Cleaning and Maintenance Occupations",
+      "salary": 28010,
+      "children": [
+        {
+          "name": "Supervisors of Building and Grounds Cleaning and Maintenance Workers",
+          "salary": 44190,
+          "children": [
+            {
+              "name": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+              "value": 161140,
+              "salary": 41240
+            },
+            {
+              "name": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+              "value": 103070,
+              "salary": 48790
+            }
+          ]
+        },
+        {
+          "name": "Building Cleaning and Pest Control Workers",
+          "salary": 26300,
+          "children": [
+            {
+              "name": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+              "value": 2161740,
+              "salary": 27030
+            },
+            {
+              "name": "Maids and Housekeeping Cleaners",
+              "value": 924640,
+              "salary": 23830
+            },
+            {
+              "name": "Building Cleaning Workers, All Other",
+              "value": 15020,
+              "salary": 30960
+            },
+            {
+              "name": "Pest Control Workers",
+              "value": 72830,
+              "salary": 35020
+            }
+          ]
+        },
+        {
+          "name": "Grounds Maintenance Workers",
+          "salary": 29170,
+          "children": [
+            {
+              "name": "Landscaping and Groundskeeping Workers",
+              "value": 906570,
+              "salary": 28560
+            },
+            {
+              "name": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+              "value": 25230,
+              "salary": 35720
+            },
+            {
+              "name": "Tree Trimmers and Pruners",
+              "value": 40680,
+              "salary": 37310
+            },
+            {
+              "name": "Grounds Maintenance Workers, All Other",
+              "value": 15170,
+              "salary": 32930
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Personal Care and Service Occupations",
+      "salary": 26510,
+      "children": [
+        {
+          "name": "Supervisors of Personal Care and Service Workers",
+          "salary": 40880,
+          "children": [
+            {
+              "name": "Gaming Supervisors",
+              "value": 22130,
+              "salary": 50810
+            },
+            {
+              "name": "Slot Supervisors",
+              "value": 7640,
+              "salary": 38300
+            },
+            {
+              "name": "First-Line Supervisors of Personal Service Workers",
+              "value": 190420,
+              "salary": 39830
+            }
+          ]
+        },
+        {
+          "name": "Animal Care and Service Workers",
+          "salary": 25110,
+          "children": [
+            {
+              "name": "Animal Trainers",
+              "value": 13590,
+              "salary": 34580
+            },
+            {
+              "name": "Nonfarm Animal Caretakers",
+              "value": 187360,
+              "salary": 24420
+            }
+          ]
+        },
+        {
+          "name": "Entertainment Attendants and Related Workers",
+          "salary": 22660,
+          "children": [
+            {
+              "name": "Gaming Dealers",
+              "value": 94570,
+              "salary": 21990
+            },
+            {
+              "name": "Gaming and Sports Book Writers and Runners",
+              "value": 11460,
+              "salary": 25710
+            },
+            {
+              "name": "Gaming Service Workers, All Other",
+              "value": 12140,
+              "salary": 28300
+            },
+            {
+              "name": "Motion Picture Projectionists",
+              "value": 5480,
+              "salary": 24750
+            },
+            {
+              "name": "Ushers, Lobby Attendants, and Ticket Takers",
+              "value": 117920,
+              "salary": 21740
+            },
+            {
+              "name": "Amusement and Recreation Attendants",
+              "value": 286740,
+              "salary": 22000
+            },
+            {
+              "name": "Costume Attendants",
+              "value": 6640,
+              "salary": 50470
+            },
+            {
+              "name": "Locker Room, Coatroom, and Dressing Room Attendants",
+              "value": 18040,
+              "salary": 24390
+            },
+            {
+              "name": "Entertainment Attendants and Related Workers, All Other",
+              "value": 14550,
+              "salary": 24610
+            }
+          ]
+        },
+        {
+          "name": "Funeral Service Workers",
+          "salary": 38890,
+          "children": [
+            {
+              "name": "Embalmers",
+              "value": 3710,
+              "salary": 42260
+            },
+            {
+              "name": "Funeral Attendants",
+              "value": 35770,
+              "salary": 27110
+            },
+            {
+              "name": "Morticians, Undertakers, and Funeral Directors",
+              "value": 25850,
+              "salary": 54700
+            }
+          ]
+        },
+        {
+          "name": "Personal Appearance Workers",
+          "salary": 29190,
+          "children": [
+            {
+              "name": "Barbers",
+              "value": 15900,
+              "salary": 29900
+            },
+            {
+              "name": "Hairdressers, Hairstylists, and Cosmetologists",
+              "value": 352380,
+              "salary": 29590
+            },
+            {
+              "name": "Makeup Artists, Theatrical and Performance",
+              "value": 3600,
+              "salary": 71590
+            },
+            {
+              "name": "Manicurists and Pedicurists",
+              "value": 90630,
+              "salary": 24330
+            },
+            {
+              "name": "Shampooers",
+              "value": 15240,
+              "salary": 20960
+            },
+            {
+              "name": "Skincare Specialists",
+              "value": 43980,
+              "salary": 35160
+            }
+          ]
+        },
+        {
+          "name": "Baggage Porters, Bellhops, and Concierges",
+          "salary": 27630,
+          "children": [
+            {
+              "name": "Baggage Porters and Bellhops",
+              "value": 44750,
+              "salary": 24910
+            },
+            {
+              "name": "Concierges",
+              "value": 32020,
+              "salary": 31440
+            }
+          ]
+        },
+        {
+          "name": "Tour and Travel Guides",
+          "salary": 28670,
+          "children": [
+            {
+              "name": "Tour Guides and Escorts",
+              "value": 38660,
+              "salary": 28100
+            },
+            {
+              "name": "Travel Guides",
+              "value": 3030,
+              "salary": 35930
+            }
+          ]
+        },
+        {
+          "name": "Other Personal Care and Service Workers",
+          "salary": 25410,
+          "children": [
+            {
+              "name": "Childcare Workers",
+              "value": 569370,
+              "salary": 22930
+            },
+            {
+              "name": "Personal Care Aides",
+              "value": 1492250,
+              "salary": 22710
+            },
+            {
+              "name": "Fitness Trainers and Aerobics Instructors",
+              "value": 257410,
+              "salary": 42780
+            },
+            {
+              "name": "Recreation Workers",
+              "value": 336880,
+              "salary": 27230
+            },
+            {
+              "name": "Residential Advisors",
+              "value": 110330,
+              "salary": 27690
+            },
+            {
+              "name": "Personal Care and Service Workers, All Other",
+              "value": 54520,
+              "salary": 27460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sales and Related Occupations",
+      "salary": 40560,
+      "children": [
+        {
+          "name": "Supervisors of Sales Workers",
+          "salary": 51230,
+          "children": [
+            {
+              "name": "First-Line Supervisors of Retail Sales Workers",
+              "value": 1194220,
+              "salary": 43910
+            },
+            {
+              "name": "First-Line Supervisors of Non-Retail Sales Workers",
+              "value": 252670,
+              "salary": 85830
+            }
+          ]
+        },
+        {
+          "name": "Retail Sales Workers",
+          "salary": 25250,
+          "children": [
+            {
+              "name": "Cashiers",
+              "value": 3541010,
+              "salary": 21680
+            },
+            {
+              "name": "Gaming Change Persons and Booth Cashiers",
+              "value": 23120,
+              "salary": 25940
+            },
+            {
+              "name": "Counter and Rental Clerks",
+              "value": 450330,
+              "salary": 29390
+            },
+            {
+              "name": "Parts Salespersons",
+              "value": 248740,
+              "salary": 33220
+            },
+            {
+              "name": "Retail Salespersons",
+              "value": 4528550,
+              "salary": 27180
+            }
+          ]
+        },
+        {
+          "name": "Sales Representatives, Services",
+          "salary": 70510,
+          "children": [
+            {
+              "name": "Advertising Sales Agents",
+              "value": 141100,
+              "salary": 63660
+            },
+            {
+              "name": "Insurance Sales Agents",
+              "value": 385700,
+              "salary": 67760
+            },
+            {
+              "name": "Securities, Commodities, and Financial Services Sales Agents",
+              "value": 353780,
+              "salary": 102260
+            },
+            {
+              "name": "Travel Agents",
+              "value": 68680,
+              "salary": 39900
+            },
+            {
+              "name": "Sales Representatives, Services, All Other",
+              "value": 953870,
+              "salary": 63070
+            }
+          ]
+        },
+        {
+          "name": "Sales Representatives, Wholesale and Manufacturing",
+          "salary": 73060,
+          "children": [
+            {
+              "name": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+              "value": 328370,
+              "salary": 92910
+            },
+            {
+              "name": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+              "value": 1404050,
+              "salary": 68410
+            }
+          ]
+        },
+        {
+          "name": "Other Sales and Related Workers",
+          "salary": 49440,
+          "children": [
+            {
+              "name": "Demonstrators and Product Promoters",
+              "value": 86500,
+              "salary": 30570
+            },
+            {
+              "name": "Models",
+              "value": 4390,
+              "salary": 36560
+            },
+            {
+              "name": "Real Estate Brokers",
+              "value": 40850,
+              "salary": 79340
+            },
+            {
+              "name": "Real Estate Sales Agents",
+              "value": 151840,
+              "salary": 59360
+            },
+            {
+              "name": "Sales Engineers",
+              "value": 74330,
+              "salary": 108880
+            },
+            {
+              "name": "Telemarketers",
+              "value": 215290,
+              "salary": 27170
+            },
+            {
+              "name": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+              "value": 8040,
+              "salary": 28630
+            },
+            {
+              "name": "Sales and Related Workers, All Other",
+              "value": 81080,
+              "salary": 43330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Office and Administrative Support Occupations",
+      "salary": 37260,
+      "children": [
+        {
+          "name": "Supervisors of Office and Administrative Support Workers",
+          "salary": 57890,
+          "children": [
+            {
+              "name": "First-Line Supervisors of Office and Administrative Support Workers",
+              "value": 1443150,
+              "salary": 57890
+            }
+          ]
+        },
+        {
+          "name": "Communications Equipment Operators",
+          "salary": 31130,
+          "children": [
+            {
+              "name": "Switchboard Operators, Including Answering Service",
+              "value": 90910,
+              "salary": 29720
+            },
+            {
+              "name": "Telephone Operators",
+              "value": 8860,
+              "salary": 43030
+            },
+            {
+              "name": "Communications Equipment Operators, All Other",
+              "value": 2150,
+              "salary": 41910
+            }
+          ]
+        },
+        {
+          "name": "Financial Clerks",
+          "salary": 37790,
+          "children": [
+            {
+              "name": "Bill and Account Collectors",
+              "value": 298960,
+              "salary": 37620
+            },
+            {
+              "name": "Billing and Posting Clerks",
+              "value": 485220,
+              "salary": 37570
+            },
+            {
+              "name": "Bookkeeping, Accounting, and Auditing Clerks",
+              "value": 1566960,
+              "salary": 40220
+            },
+            {
+              "name": "Gaming Cage Workers",
+              "value": 18810,
+              "salary": 28120
+            },
+            {
+              "name": "Payroll and Timekeeping Clerks",
+              "value": 159650,
+              "salary": 43580
+            },
+            {
+              "name": "Procurement Clerks",
+              "value": 72120,
+              "salary": 41980
+            },
+            {
+              "name": "Tellers",
+              "value": 496760,
+              "salary": 28060
+            },
+            {
+              "name": "Financial Clerks, All Other",
+              "value": 34540,
+              "salary": 41870
+            }
+          ]
+        },
+        {
+          "name": "Information and Record Clerks",
+          "salary": 34370,
+          "children": [
+            {
+              "name": "Brokerage Clerks",
+              "value": 59820,
+              "salary": 52380
+            },
+            {
+              "name": "Correspondence Clerks",
+              "value": 6780,
+              "salary": 37660
+            },
+            {
+              "name": "Court, Municipal, and License Clerks",
+              "value": 128620,
+              "salary": 39160
+            },
+            {
+              "name": "Credit Authorizers, Checkers, and Clerks",
+              "value": 37680,
+              "salary": 39320
+            },
+            {
+              "name": "Customer Service Representatives",
+              "value": 2707040,
+              "salary": 35170
+            },
+            {
+              "name": "Eligibility Interviewers, Government Programs",
+              "value": 135940,
+              "salary": 43550
+            },
+            {
+              "name": "File Clerks",
+              "value": 130950,
+              "salary": 31260
+            },
+            {
+              "name": "Hotel, Motel, and Resort Desk Clerks",
+              "value": 248440,
+              "salary": 23530
+            },
+            {
+              "name": "Interviewers, Except Eligibility and Loan",
+              "value": 186030,
+              "salary": 33640
+            },
+            {
+              "name": "Library Assistants, Clerical",
+              "value": 98560,
+              "salary": 27450
+            },
+            {
+              "name": "Loan Interviewers and Clerks",
+              "value": 224340,
+              "salary": 40300
+            },
+            {
+              "name": "New Accounts Clerks",
+              "value": 41630,
+              "salary": 36480
+            },
+            {
+              "name": "Order Clerks",
+              "value": 176850,
+              "salary": 35160
+            },
+            {
+              "name": "Human Resources Assistants, Except Payroll and Timekeeping",
+              "value": 137150,
+              "salary": 40100
+            },
+            {
+              "name": "Receptionists and Information Clerks",
+              "value": 997770,
+              "salary": 29120
+            },
+            {
+              "name": "Reservation and Transportation Ticket Agents and Travel Clerks",
+              "value": 146350,
+              "salary": 38050
+            },
+            {
+              "name": "Information and Record Clerks, All Other",
+              "value": 166850,
+              "salary": 40090
+            }
+          ]
+        },
+        {
+          "name": "Material Recording, Scheduling, Dispatching, and Distributing Workers",
+          "salary": 34150,
+          "children": [
+            {
+              "name": "Cargo and Freight Agents",
+              "value": 88920,
+              "salary": 44250
+            },
+            {
+              "name": "Couriers and Messengers",
+              "value": 74120,
+              "salary": 29920
+            },
+            {
+              "name": "Police, Fire, and Ambulance Dispatchers",
+              "value": 95170,
+              "salary": 41070
+            },
+            {
+              "name": "Dispatchers, Except Police, Fire, and Ambulance",
+              "value": 197910,
+              "salary": 41190
+            },
+            {
+              "name": "Meter Readers, Utilities",
+              "value": 34070,
+              "salary": 41890
+            },
+            {
+              "name": "Postal Service Clerks",
+              "value": 82030,
+              "salary": 48360
+            },
+            {
+              "name": "Postal Service Mail Carriers",
+              "value": 328950,
+              "salary": 50610
+            },
+            {
+              "name": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+              "value": 110770,
+              "salary": 49710
+            },
+            {
+              "name": "Production, Planning, and Expediting Clerks",
+              "value": 321780,
+              "salary": 49050
+            },
+            {
+              "name": "Shipping, Receiving, and Traffic Clerks",
+              "value": 676990,
+              "salary": 33150
+            },
+            {
+              "name": "Stock Clerks and Order Fillers",
+              "value": 2016340,
+              "salary": 26670
+            },
+            {
+              "name": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+              "value": 74460,
+              "salary": 31080
+            }
+          ]
+        },
+        {
+          "name": "Secretaries and Administrative Assistants",
+          "salary": 40330,
+          "children": [
+            {
+              "name": "Executive Secretaries and Executive Administrative Assistants",
+              "value": 631610,
+              "salary": 57910
+            },
+            {
+              "name": "Legal Secretaries",
+              "value": 191200,
+              "salary": 47900
+            },
+            {
+              "name": "Medical Secretaries",
+              "value": 556820,
+              "salary": 35060
+            },
+            {
+              "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+              "value": 2295510,
+              "salary": 36140
+            }
+          ]
+        },
+        {
+          "name": "Other Office and Administrative Support Workers",
+          "salary": 33930,
+          "children": [
+            {
+              "name": "Computer Operators",
+              "value": 46810,
+              "salary": 43880
+            },
+            {
+              "name": "Data Entry Keyers",
+              "value": 194810,
+              "salary": 31640
+            },
+            {
+              "name": "Word Processors and Typists",
+              "value": 67230,
+              "salary": 39970
+            },
+            {
+              "name": "Desktop Publishers",
+              "value": 13090,
+              "salary": 44380
+            },
+            {
+              "name": "Insurance Claims and Policy Processing Clerks",
+              "value": 274350,
+              "salary": 40780
+            },
+            {
+              "name": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+              "value": 91530,
+              "salary": 30580
+            },
+            {
+              "name": "Office Clerks, General",
+              "value": 2955550,
+              "salary": 33010
+            },
+            {
+              "name": "Office Machine Operators, Except Computer",
+              "value": 58160,
+              "salary": 32390
+            },
+            {
+              "name": "Proofreaders and Copy Markers",
+              "value": 11430,
+              "salary": 39640
+            },
+            {
+              "name": "Statistical Assistants",
+              "value": 10900,
+              "salary": 48300
+            },
+            {
+              "name": "Office and Administrative Support Workers, All Other",
+              "value": 216650,
+              "salary": 36040
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Farming, Fishing, and Forestry Occupations",
+      "salary": 27810,
+      "children": [
+        {
+          "name": "Supervisors of Farming, Fishing, and Forestry Workers",
+          "salary": 48820,
+          "children": [
+            {
+              "name": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+              "value": 19550,
+              "salary": 48820
+            }
+          ]
+        },
+        {
+          "name": "Agricultural Workers",
+          "salary": 25570,
+          "children": [
+            {
+              "name": "Agricultural Inspectors",
+              "value": 14710,
+              "salary": 44260
+            },
+            {
+              "name": "Animal Breeders",
+              "value": 1270,
+              "salary": 42340
+            },
+            {
+              "name": "Graders and Sorters, Agricultural Products",
+              "value": 38780,
+              "salary": 24280
+            },
+            {
+              "name": "Agricultural Equipment Operators",
+              "value": 28700,
+              "salary": 30430
+            },
+            {
+              "name": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+              "value": 273450,
+              "salary": 23820
+            },
+            {
+              "name": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+              "value": 35670,
+              "salary": 26840
+            },
+            {
+              "name": "Agricultural Workers, All Other",
+              "value": 5040,
+              "salary": 35120
+            }
+          ]
+        },
+        {
+          "name": "Fishing and Hunting Workers",
+          "salary": 31440,
+          "children": [
+            {
+              "name": "Fishers and Related Fishing Workers",
+              "value": 520,
+              "salary": 30740
+            }
+          ]
+        },
+        {
+          "name": "Forest, Conservation, and Logging Workers",
+          "salary": 38210,
+          "children": [
+            {
+              "name": "Forest and Conservation Workers",
+              "value": 7170,
+              "salary": 31200
+            },
+            {
+              "name": "Fallers",
+              "value": 5370,
+              "salary": 42900
+            },
+            {
+              "name": "Logging Equipment Operators",
+              "value": 27250,
+              "salary": 38880
+            },
+            {
+              "name": "Log Graders and Scalers",
+              "value": 3020,
+              "salary": 38150
+            },
+            {
+              "name": "Logging Workers, All Other",
+              "value": 3010,
+              "salary": 40560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Construction and Extraction Occupations",
+      "salary": 48900,
+      "children": [
+        {
+          "name": "Supervisors of Construction and Extraction Workers",
+          "salary": 68040,
+          "children": [
+            {
+              "name": "First-Line Supervisors of Construction Trades and Extraction Workers",
+              "value": 538220,
+              "salary": 68040
+            }
+          ]
+        },
+        {
+          "name": "Construction Trades Workers",
+          "salary": 47580,
+          "children": [
+            {
+              "name": "Boilermakers",
+              "value": 16660,
+              "salary": 62200
+            },
+            {
+              "name": "Brickmasons and Blockmasons",
+              "value": 64370,
+              "salary": 53440
+            },
+            {
+              "name": "Stonemasons",
+              "value": 13190,
+              "salary": 43650
+            },
+            {
+              "name": "Carpenters",
+              "value": 676980,
+              "salary": 48340
+            },
+            {
+              "name": "Carpet Installers",
+              "value": 25660,
+              "salary": 44310
+            },
+            {
+              "name": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+              "value": 10340,
+              "salary": 42370
+            },
+            {
+              "name": "Floor Sanders and Finishers",
+              "value": 4590,
+              "salary": 38890
+            },
+            {
+              "name": "Tile and Marble Setters",
+              "value": 36830,
+              "salary": 44770
+            },
+            {
+              "name": "Cement Masons and Concrete Finishers",
+              "value": 173920,
+              "salary": 43720
+            },
+            {
+              "name": "Terrazzo Workers and Finishers",
+              "value": 3420,
+              "salary": 45990
+            },
+            {
+              "name": "Construction Laborers",
+              "value": 912100,
+              "salary": 37890
+            },
+            {
+              "name": "Paving, Surfacing, and Tamping Equipment Operators",
+              "value": 51880,
+              "salary": 43800
+            },
+            {
+              "name": "Pile-Driver Operators",
+              "value": 3570,
+              "salary": 61740
+            },
+            {
+              "name": "Operating Engineers and Other Construction Equipment Operators",
+              "value": 356750,
+              "salary": 50560
+            },
+            {
+              "name": "Drywall and Ceiling Tile Installers",
+              "value": 93180,
+              "salary": 47400
+            },
+            {
+              "name": "Tapers",
+              "value": 18480,
+              "salary": 53790
+            },
+            {
+              "name": "Electricians",
+              "value": 607120,
+              "salary": 56650
+            },
+            {
+              "name": "Glaziers",
+              "value": 47140,
+              "salary": 47260
+            },
+            {
+              "name": "Insulation Workers, Floor, Ceiling, and Wall",
+              "value": 29500,
+              "salary": 39490
+            },
+            {
+              "name": "Insulation Workers, Mechanical",
+              "value": 27270,
+              "salary": 51100
+            },
+            {
+              "name": "Painters, Construction and Maintenance",
+              "value": 217280,
+              "salary": 41510
+            },
+            {
+              "name": "Paperhangers",
+              "value": 3190,
+              "salary": 36470
+            },
+            {
+              "name": "Pipelayers",
+              "value": 39620,
+              "salary": 42860
+            },
+            {
+              "name": "Plumbers, Pipefitters, and Steamfitters",
+              "value": 411870,
+              "salary": 56030
+            },
+            {
+              "name": "Plasterers and Stucco Masons",
+              "value": 22810,
+              "salary": 44070
+            },
+            {
+              "name": "Reinforcing Iron and Rebar Workers",
+              "value": 20020,
+              "salary": 53600
+            },
+            {
+              "name": "Roofers",
+              "value": 116410,
+              "salary": 42080
+            },
+            {
+              "name": "Sheet Metal Workers",
+              "value": 134450,
+              "salary": 51080
+            },
+            {
+              "name": "Structural Iron and Steel Workers",
+              "value": 69440,
+              "salary": 56040
+            },
+            {
+              "name": "Solar Photovoltaic Installers",
+              "value": 8870,
+              "salary": 42500
+            }
+          ]
+        },
+        {
+          "name": "Helpers, Construction Trades",
+          "salary": 30900,
+          "children": [
+            {
+              "name": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+              "value": 23950,
+              "salary": 33610
+            },
+            {
+              "name": "Helpers--Carpenters",
+              "value": 35890,
+              "salary": 30200
+            },
+            {
+              "name": "Helpers--Electricians",
+              "value": 71890,
+              "salary": 30980
+            },
+            {
+              "name": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+              "value": 10780,
+              "salary": 28760
+            },
+            {
+              "name": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+              "value": 54080,
+              "salary": 30640
+            },
+            {
+              "name": "Helpers--Roofers",
+              "value": 10190,
+              "salary": 28890
+            },
+            {
+              "name": "Helpers, Construction Trades, All Other",
+              "value": 21820,
+              "salary": 31450
+            }
+          ]
+        },
+        {
+          "name": "Other Construction and Related Workers",
+          "salary": 47670,
+          "children": [
+            {
+              "name": "Construction and Building Inspectors",
+              "value": 94960,
+              "salary": 61250
+            },
+            {
+              "name": "Elevator Installers and Repairers",
+              "value": 22240,
+              "salary": 76860
+            },
+            {
+              "name": "Fence Erectors",
+              "value": 21500,
+              "salary": 36380
+            },
+            {
+              "name": "Hazardous Materials Removal Workers",
+              "value": 44280,
+              "salary": 45500
+            },
+            {
+              "name": "Highway Maintenance Workers",
+              "value": 143320,
+              "salary": 39540
+            },
+            {
+              "name": "Rail-Track Laying and Maintenance Equipment Operators",
+              "value": 14250,
+              "salary": 52810
+            },
+            {
+              "name": "Septic Tank Servicers and Sewer Pipe Cleaners",
+              "value": 26320,
+              "salary": 38870
+            },
+            {
+              "name": "Segmental Pavers",
+              "value": 1720,
+              "salary": 34160
+            },
+            {
+              "name": "Construction and Related Workers, All Other",
+              "value": 35340,
+              "salary": 40480
+            }
+          ]
+        },
+        {
+          "name": "Extraction Workers",
+          "salary": 48190,
+          "children": [
+            {
+              "name": "Derrick Operators, Oil and Gas",
+              "value": 11580,
+              "salary": 51140
+            },
+            {
+              "name": "Rotary Drill Operators, Oil and Gas",
+              "value": 17400,
+              "salary": 57140
+            },
+            {
+              "name": "Service Unit Operators, Oil, Gas, and Mining",
+              "value": 42890,
+              "salary": 53520
+            },
+            {
+              "name": "Earth Drillers, Except Oil and Gas",
+              "value": 18500,
+              "salary": 51240
+            },
+            {
+              "name": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+              "value": 6310,
+              "salary": 54580
+            },
+            {
+              "name": "Continuous Mining Machine Operators",
+              "value": 12030,
+              "salary": 52650
+            },
+            {
+              "name": "Mine Cutting and Channeling Machine Operators",
+              "value": 5930,
+              "salary": 50670
+            },
+            {
+              "name": "Mining Machine Operators, All Other",
+              "value": 2160,
+              "salary": 50220
+            },
+            {
+              "name": "Rock Splitters, Quarry",
+              "value": 3770,
+              "salary": 34860
+            },
+            {
+              "name": "Roof Bolters, Mining",
+              "value": 3930,
+              "salary": 58110
+            },
+            {
+              "name": "Roustabouts, Oil and Gas",
+              "value": 51290,
+              "salary": 40480
+            },
+            {
+              "name": "Helpers--Extraction Workers",
+              "value": 17660,
+              "salary": 37160
+            },
+            {
+              "name": "Extraction Workers, All Other",
+              "value": 4320,
+              "salary": 51170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Installation, Maintenance, and Repair Occupations",
+      "salary": 46690,
+      "children": [
+        {
+          "name": "Supervisors of Installation, Maintenance, and Repair Workers",
+          "salary": 66730,
+          "children": [
+            {
+              "name": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+              "value": 453330,
+              "salary": 66730
+            }
+          ]
+        },
+        {
+          "name": "Electrical and Electronic Equipment Mechanics, Installers, and Repairers",
+          "salary": 50900,
+          "children": [
+            {
+              "name": "Computer, Automated Teller, and Office Machine Repairers",
+              "value": 102170,
+              "salary": 39410
+            },
+            {
+              "name": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+              "value": 14120,
+              "salary": 53620
+            },
+            {
+              "name": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+              "value": 228430,
+              "salary": 54520
+            },
+            {
+              "name": "Avionics Technicians",
+              "value": 17330,
+              "salary": 61390
+            },
+            {
+              "name": "Electric Motor, Power Tool, and Related Repairers",
+              "value": 17050,
+              "salary": 44720
+            },
+            {
+              "name": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+              "value": 13960,
+              "salary": 59840
+            },
+            {
+              "name": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+              "value": 67390,
+              "salary": 56990
+            },
+            {
+              "name": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+              "value": 23060,
+              "salary": 74540
+            },
+            {
+              "name": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+              "value": 11750,
+              "salary": 34200
+            },
+            {
+              "name": "Electronic Home Entertainment Equipment Installers and Repairers",
+              "value": 25550,
+              "salary": 39340
+            },
+            {
+              "name": "Security and Fire Alarm Systems Installers",
+              "value": 67700,
+              "salary": 45660
+            }
+          ]
+        },
+        {
+          "name": "Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",
+          "salary": 43710,
+          "children": [
+            {
+              "name": "Aircraft Mechanics and Service Technicians",
+              "value": 128570,
+              "salary": 61190
+            },
+            {
+              "name": "Automotive Body and Related Repairers",
+              "value": 143940,
+              "salary": 45180
+            },
+            {
+              "name": "Automotive Glass Installers and Repairers",
+              "value": 18610,
+              "salary": 36140
+            },
+            {
+              "name": "Automotive Service Technicians and Mechanics",
+              "value": 647380,
+              "salary": 41400
+            },
+            {
+              "name": "Bus and Truck Mechanics and Diesel Engine Specialists",
+              "value": 254280,
+              "salary": 46710
+            },
+            {
+              "name": "Farm Equipment Mechanics and Service Technicians",
+              "value": 35110,
+              "salary": 39310
+            },
+            {
+              "name": "Mobile Heavy Equipment Mechanics, Except Engines",
+              "value": 123570,
+              "salary": 50810
+            },
+            {
+              "name": "Rail Car Repairers",
+              "value": 22090,
+              "salary": 53590
+            },
+            {
+              "name": "Motorboat Mechanics and Service Technicians",
+              "value": 20260,
+              "salary": 40860
+            },
+            {
+              "name": "Motorcycle Mechanics",
+              "value": 16000,
+              "salary": 37040
+            },
+            {
+              "name": "Outdoor Power Equipment and Other Small Engine Mechanics",
+              "value": 33020,
+              "salary": 35320
+            },
+            {
+              "name": "Bicycle Repairers",
+              "value": 12560,
+              "salary": 28520
+            },
+            {
+              "name": "Recreational Vehicle Service Technicians",
+              "value": 13520,
+              "salary": 38040
+            },
+            {
+              "name": "Tire Repairers and Changers",
+              "value": 109350,
+              "salary": 27150
+            }
+          ]
+        },
+        {
+          "name": "Other Installation, Maintenance, and Repair Occupations",
+          "salary": 44270,
+          "children": [
+            {
+              "name": "Mechanical Door Repairers",
+              "value": 19840,
+              "salary": 40420
+            },
+            {
+              "name": "Control and Valve Installers and Repairers, Except Mechanical Door",
+              "value": 45740,
+              "salary": 56180
+            },
+            {
+              "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+              "value": 294730,
+              "salary": 48320
+            },
+            {
+              "name": "Home Appliance Repairers",
+              "value": 33480,
+              "salary": 40390
+            },
+            {
+              "name": "Industrial Machinery Mechanics",
+              "value": 334490,
+              "salary": 51890
+            },
+            {
+              "name": "Maintenance Workers, Machinery",
+              "value": 89630,
+              "salary": 46000
+            },
+            {
+              "name": "Millwrights",
+              "value": 39670,
+              "salary": 53950
+            },
+            {
+              "name": "Refractory Materials Repairers, Except Brickmasons",
+              "value": 1540,
+              "salary": 47000
+            },
+            {
+              "name": "Electrical Power-Line Installers and Repairers",
+              "value": 117670,
+              "salary": 67160
+            },
+            {
+              "name": "Telecommunications Line Installers and Repairers",
+              "value": 100080,
+              "salary": 54700
+            },
+            {
+              "name": "Camera and Photographic Equipment Repairers",
+              "value": 3760,
+              "salary": 43920
+            },
+            {
+              "name": "Medical Equipment Repairers",
+              "value": 43370,
+              "salary": 50910
+            },
+            {
+              "name": "Musical Instrument Repairers and Tuners",
+              "value": 7980,
+              "salary": 37690
+            },
+            {
+              "name": "Watch Repairers",
+              "value": 1620,
+              "salary": 39720
+            },
+            {
+              "name": "Precision Instrument and Equipment Repairers, All Other",
+              "value": 11640,
+              "salary": 56570
+            },
+            {
+              "name": "Maintenance and Repair Workers, General",
+              "value": 1332480,
+              "salary": 39360
+            },
+            {
+              "name": "Wind Turbine Service Technicians",
+              "value": 4580,
+              "salary": 54360
+            },
+            {
+              "name": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+              "value": 33600,
+              "salary": 34860
+            },
+            {
+              "name": "Commercial Divers",
+              "value": 3370,
+              "salary": 53990
+            },
+            {
+              "name": "Fabric Menders, Except Garment",
+              "value": 550,
+              "salary": 27670
+            },
+            {
+              "name": "Locksmiths and Safe Repairers",
+              "value": 18640,
+              "salary": 42180
+            },
+            {
+              "name": "Manufactured Building and Mobile Home Installers",
+              "value": 3200,
+              "salary": 31030
+            },
+            {
+              "name": "Riggers",
+              "value": 21020,
+              "salary": 49030
+            },
+            {
+              "name": "Signal and Track Switch Repairers",
+              "value": 8680,
+              "salary": 62710
+            },
+            {
+              "name": "Helpers--Installation, Maintenance, and Repair Workers",
+              "value": 118720,
+              "salary": 29370
+            },
+            {
+              "name": "Installation, Maintenance, and Repair Workers, All Other",
+              "value": 146460,
+              "salary": 41810
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Production Occupations",
+      "salary": 37190,
+      "children": [
+        {
+          "name": "Supervisors of Production Workers",
+          "salary": 61450,
+          "children": [
+            {
+              "name": "First-Line Supervisors of Production and Operating Workers",
+              "value": 610480,
+              "salary": 61450
+            }
+          ]
+        },
+        {
+          "name": "Assemblers and Fabricators",
+          "salary": 33610,
+          "children": [
+            {
+              "name": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+              "value": 42010,
+              "salary": 52530
+            },
+            {
+              "name": "Coil Winders, Tapers, and Finishers",
+              "value": 14090,
+              "salary": 35340
+            },
+            {
+              "name": "Electrical and Electronic Equipment Assemblers",
+              "value": 218530,
+              "salary": 33700
+            },
+            {
+              "name": "Electromechanical Equipment Assemblers",
+              "value": 45540,
+              "salary": 35410
+            },
+            {
+              "name": "Engine and Other Machine Assemblers",
+              "value": 38150,
+              "salary": 43090
+            },
+            {
+              "name": "Structural Metal Fabricators and Fitters",
+              "value": 77270,
+              "salary": 40000
+            },
+            {
+              "name": "Fiberglass Laminators and Fabricators",
+              "value": 19400,
+              "salary": 33020
+            },
+            {
+              "name": "Team Assemblers",
+              "value": 1112780,
+              "salary": 32550
+            },
+            {
+              "name": "Timing Device Assemblers and Adjusters",
+              "value": 790,
+              "salary": 42470
+            },
+            {
+              "name": "Assemblers and Fabricators, All Other",
+              "value": 230310,
+              "salary": 31050
+            }
+          ]
+        },
+        {
+          "name": "Food Processing Workers",
+          "salary": 28320,
+          "children": [
+            {
+              "name": "Bakers",
+              "value": 180450,
+              "salary": 27110
+            },
+            {
+              "name": "Butchers and Meat Cutters",
+              "value": 133880,
+              "salary": 31740
+            },
+            {
+              "name": "Meat, Poultry, and Fish Cutters and Trimmers",
+              "value": 149800,
+              "salary": 25510
+            },
+            {
+              "name": "Slaughterers and Meat Packers",
+              "value": 80780,
+              "salary": 27040
+            },
+            {
+              "name": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+              "value": 20080,
+              "salary": 30970
+            },
+            {
+              "name": "Food Batchmakers",
+              "value": 148540,
+              "salary": 30130
+            },
+            {
+              "name": "Food Cooking Machine Operators and Tenders",
+              "value": 36520,
+              "salary": 30330
+            },
+            {
+              "name": "Food Processing Workers, All Other",
+              "value": 43070,
+              "salary": 25800
+            }
+          ]
+        },
+        {
+          "name": "Metal Workers and Plastic Workers",
+          "salary": 39830,
+          "children": [
+            {
+              "name": "Computer-Controlled Machine Tool Operators, Metal and Plastic",
+              "value": 146190,
+              "salary": 39590
+            },
+            {
+              "name": "Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
+              "value": 25180,
+              "salary": 53560
+            },
+            {
+              "name": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 71960,
+              "salary": 35340
+            },
+            {
+              "name": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 19160,
+              "salary": 38710
+            },
+            {
+              "name": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 29060,
+              "salary": 41900
+            },
+            {
+              "name": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 192800,
+              "salary": 34210
+            },
+            {
+              "name": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 12290,
+              "salary": 38880
+            },
+            {
+              "name": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 74600,
+              "salary": 34920
+            },
+            {
+              "name": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 33850,
+              "salary": 39630
+            },
+            {
+              "name": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 17560,
+              "salary": 41180
+            },
+            {
+              "name": "Machinists",
+              "value": 391120,
+              "salary": 43220
+            },
+            {
+              "name": "Metal-Refining Furnace Operators and Tenders",
+              "value": 17730,
+              "salary": 41840
+            },
+            {
+              "name": "Pourers and Casters, Metal",
+              "value": 8560,
+              "salary": 37300
+            },
+            {
+              "name": "Model Makers, Metal and Plastic",
+              "value": 6250,
+              "salary": 50360
+            },
+            {
+              "name": "Patternmakers, Metal and Plastic",
+              "value": 3420,
+              "salary": 44490
+            },
+            {
+              "name": "Foundry Mold and Coremakers",
+              "value": 12810,
+              "salary": 36030
+            },
+            {
+              "name": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 145560,
+              "salary": 32660
+            },
+            {
+              "name": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 117300,
+              "salary": 36190
+            },
+            {
+              "name": "Tool and Die Makers",
+              "value": 72210,
+              "salary": 51610
+            },
+            {
+              "name": "Welders, Cutters, Solderers, and Brazers",
+              "value": 382730,
+              "salary": 42450
+            },
+            {
+              "name": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+              "value": 46920,
+              "salary": 38380
+            },
+            {
+              "name": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 19780,
+              "salary": 39010
+            },
+            {
+              "name": "Layout Workers, Metal and Plastic",
+              "value": 9070,
+              "salary": 47720
+            },
+            {
+              "name": "Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",
+              "value": 35570,
+              "salary": 33690
+            },
+            {
+              "name": "Tool Grinders, Filers, and Sharpeners",
+              "value": 9550,
+              "salary": 38860
+            },
+            {
+              "name": "Metal Workers and Plastic Workers, All Other",
+              "value": 22930,
+              "salary": 35780
+            }
+          ]
+        },
+        {
+          "name": "Printing Workers",
+          "salary": 37010,
+          "children": []
+        },
+        {
+          "name": "Textile, Apparel, and Furnishings Workers",
+          "salary": 26270,
+          "children": [
+            {
+              "name": "Laundry and Dry-Cleaning Workers",
+              "value": 207710,
+              "salary": 23210
+            },
+            {
+              "name": "Pressers, Textile, Garment, and Related Materials",
+              "value": 45150,
+              "salary": 22270
+            },
+            {
+              "name": "Sewing Machine Operators",
+              "value": 139500,
+              "salary": 25830
+            },
+            {
+              "name": "Shoe and Leather Workers and Repairers",
+              "value": 7780,
+              "salary": 26040
+            },
+            {
+              "name": "Shoe Machine Operators and Tenders",
+              "value": 3500,
+              "salary": 26530
+            },
+            {
+              "name": "Sewers, Hand",
+              "value": 6540,
+              "salary": 25630
+            },
+            {
+              "name": "Tailors, Dressmakers, and Custom Sewers",
+              "value": 21660,
+              "salary": 30670
+            },
+            {
+              "name": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+              "value": 10860,
+              "salary": 28480
+            },
+            {
+              "name": "Textile Cutting Machine Setters, Operators, and Tenders",
+              "value": 15040,
+              "salary": 27860
+            },
+            {
+              "name": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+              "value": 21550,
+              "salary": 28380
+            },
+            {
+              "name": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+              "value": 30340,
+              "salary": 28110
+            },
+            {
+              "name": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+              "value": 19340,
+              "salary": 35420
+            },
+            {
+              "name": "Fabric and Apparel Patternmakers",
+              "value": 5310,
+              "salary": 48460
+            },
+            {
+              "name": "Upholsterers",
+              "value": 32520,
+              "salary": 34640
+            },
+            {
+              "name": "Textile, Apparel, and Furnishings Workers, All Other",
+              "value": 15650,
+              "salary": 30830
+            }
+          ]
+        },
+        {
+          "name": "Woodworkers",
+          "salary": 32170,
+          "children": [
+            {
+              "name": "Cabinetmakers and Bench Carpenters",
+              "value": 97980,
+              "salary": 34800
+            },
+            {
+              "name": "Furniture Finishers",
+              "value": 17370,
+              "salary": 32330
+            },
+            {
+              "name": "Model Makers, Wood",
+              "value": 1040,
+              "salary": 47480
+            },
+            {
+              "name": "Patternmakers, Wood",
+              "value": 970,
+              "salary": 47850
+            },
+            {
+              "name": "Sawing Machine Setters, Operators, and Tenders, Wood",
+              "value": 50640,
+              "salary": 29960
+            },
+            {
+              "name": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+              "value": 76130,
+              "salary": 29850
+            },
+            {
+              "name": "Woodworkers, All Other",
+              "value": 6750,
+              "salary": 31780
+            }
+          ]
+        },
+        {
+          "name": "Plant and System Operators",
+          "salary": 59980,
+          "children": [
+            {
+              "name": "Nuclear Power Reactor Operators",
+              "value": 7170,
+              "salary": 91370
+            },
+            {
+              "name": "Power Distributors and Dispatchers",
+              "value": 11380,
+              "salary": 81500
+            },
+            {
+              "name": "Power Plant Operators",
+              "value": 35010,
+              "salary": 73800
+            },
+            {
+              "name": "Stationary Engineers and Boiler Operators",
+              "value": 33720,
+              "salary": 61410
+            },
+            {
+              "name": "Water and Wastewater Treatment Plant and System Operators",
+              "value": 115840,
+              "salary": 47930
+            },
+            {
+              "name": "Chemical Plant and System Operators",
+              "value": 33300,
+              "salary": 59430
+            },
+            {
+              "name": "Gas Plant Operators",
+              "value": 17350,
+              "salary": 67980
+            },
+            {
+              "name": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+              "value": 41630,
+              "salary": 67870
+            },
+            {
+              "name": "Plant and System Operators, All Other",
+              "value": 11970,
+              "salary": 55340
+            }
+          ]
+        },
+        {
+          "name": "Other Production Occupations",
+          "salary": 34950,
+          "children": [
+            {
+              "name": "Chemical Equipment Operators and Tenders",
+              "value": 73840,
+              "salary": 50300
+            },
+            {
+              "name": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+              "value": 47160,
+              "salary": 41450
+            },
+            {
+              "name": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+              "value": 29830,
+              "salary": 36050
+            },
+            {
+              "name": "Grinding and Polishing Workers, Hand",
+              "value": 26670,
+              "salary": 30860
+            },
+            {
+              "name": "Mixing and Blending Machine Setters, Operators, and Tenders",
+              "value": 130480,
+              "salary": 37630
+            },
+            {
+              "name": "Cutters and Trimmers, Hand",
+              "value": 14250,
+              "salary": 29580
+            },
+            {
+              "name": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+              "value": 61330,
+              "salary": 34000
+            },
+            {
+              "name": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+              "value": 71260,
+              "salary": 34370
+            },
+            {
+              "name": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+              "value": 19520,
+              "salary": 37600
+            },
+            {
+              "name": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+              "value": 518950,
+              "salary": 40340
+            },
+            {
+              "name": "Jewelers and Precious Stone and Metal Workers",
+              "value": 26480,
+              "salary": 42310
+            },
+            {
+              "name": "Dental Laboratory Technicians",
+              "value": 37110,
+              "salary": 40760
+            },
+            {
+              "name": "Medical Appliance Technicians",
+              "value": 14570,
+              "salary": 39880
+            },
+            {
+              "name": "Ophthalmic Laboratory Technicians",
+              "value": 28570,
+              "salary": 34220
+            },
+            {
+              "name": "Packaging and Filling Machine Operators and Tenders",
+              "value": 386520,
+              "salary": 30910
+            },
+            {
+              "name": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+              "value": 85760,
+              "salary": 34460
+            },
+            {
+              "name": "Painters, Transportation Equipment",
+              "value": 54860,
+              "salary": 46270
+            },
+            {
+              "name": "Painting, Coating, and Decorating Workers",
+              "value": 15450,
+              "salary": 32040
+            },
+            {
+              "name": "Semiconductor Processors",
+              "value": 24430,
+              "salary": 37890
+            },
+            {
+              "name": "Photographic Process Workers and Processing Machine Operators",
+              "value": 26430,
+              "salary": 31740
+            },
+            {
+              "name": "Adhesive Bonding Machine Operators and Tenders",
+              "value": 16940,
+              "salary": 34610
+            },
+            {
+              "name": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+              "value": 17860,
+              "salary": 30590
+            },
+            {
+              "name": "Cooling and Freezing Equipment Operators and Tenders",
+              "value": 8170,
+              "salary": 32100
+            },
+            {
+              "name": "Etchers and Engravers",
+              "value": 9520,
+              "salary": 34390
+            },
+            {
+              "name": "Molders, Shapers, and Casters, Except Metal and Plastic",
+              "value": 39450,
+              "salary": 32590
+            },
+            {
+              "name": "Paper Goods Machine Setters, Operators, and Tenders",
+              "value": 93100,
+              "salary": 38570
+            },
+            {
+              "name": "Tire Builders",
+              "value": 22280,
+              "salary": 42230
+            },
+            {
+              "name": "Helpers--Production Workers",
+              "value": 429890,
+              "salary": 26930
+            },
+            {
+              "name": "Production Workers, All Other",
+              "value": 251670,
+              "salary": 32380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transportation and Material Moving Occupations",
+      "salary": 36070,
+      "children": [
+        {
+          "name": "Supervisors of Transportation and Material Moving Workers",
+          "salary": 55160,
+          "children": [
+            {
+              "name": "Aircraft Cargo Handling Supervisors",
+              "value": 7460,
+              "salary": 51900
+            },
+            {
+              "name": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+              "value": 183620,
+              "salary": 50160
+            },
+            {
+              "name": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators",
+              "value": 202760,
+              "salary": 59800
+            }
+          ]
+        },
+        {
+          "name": "Air Transportation Workers",
+          "salary": 93560,
+          "children": [
+            {
+              "name": "Airline Pilots, Copilots, and Flight Engineers",
+              "value": 81520,
+              "salary": 152770
+            },
+            {
+              "name": "Commercial Pilots",
+              "value": 38980,
+              "salary": 86260
+            },
+            {
+              "name": "Air Traffic Controllers",
+              "value": 23240,
+              "salary": 118200
+            },
+            {
+              "name": "Airfield Operations Specialists",
+              "value": 8760,
+              "salary": 52380
+            },
+            {
+              "name": "Flight Attendants",
+              "value": 113390,
+              "salary": 51620
+            }
+          ]
+        },
+        {
+          "name": "Motor Vehicle Operators",
+          "salary": 37280,
+          "children": [
+            {
+              "name": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+              "value": 17300,
+              "salary": 25600
+            },
+            {
+              "name": "Bus Drivers, Transit and Intercity",
+              "value": 169680,
+              "salary": 41780
+            },
+            {
+              "name": "Bus Drivers, School or Special Client",
+              "value": 515020,
+              "salary": 31110
+            },
+            {
+              "name": "Driver/Sales Workers",
+              "value": 426310,
+              "salary": 28440
+            },
+            {
+              "name": "Heavy and Tractor-Trailer Truck Drivers",
+              "value": 1704520,
+              "salary": 43590
+            },
+            {
+              "name": "Light Truck or Delivery Services Drivers",
+              "value": 858710,
+              "salary": 34790
+            },
+            {
+              "name": "Taxi Drivers and Chauffeurs",
+              "value": 188860,
+              "salary": 26790
+            },
+            {
+              "name": "Motor Vehicle Operators, All Other",
+              "value": 53680,
+              "salary": 32930
+            }
+          ]
+        },
+        {
+          "name": "Rail Transportation Workers",
+          "salary": 58950,
+          "children": [
+            {
+              "name": "Locomotive Engineers",
+              "value": 39900,
+              "salary": 61020
+            },
+            {
+              "name": "Locomotive Firers",
+              "value": 1210,
+              "salary": 63750
+            },
+            {
+              "name": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+              "value": 4530,
+              "salary": 52320
+            },
+            {
+              "name": "Railroad Brake, Signal, and Switch Operators",
+              "value": 19860,
+              "salary": 55320
+            },
+            {
+              "name": "Railroad Conductors and Yardmasters",
+              "value": 42880,
+              "salary": 58220
+            },
+            {
+              "name": "Subway and Streetcar Operators",
+              "value": 12350,
+              "salary": 62380
+            },
+            {
+              "name": "Rail Transportation Workers, All Other",
+              "value": 4470,
+              "salary": 59480
+            }
+          ]
+        },
+        {
+          "name": "Water Transportation Workers",
+          "salary": 65140,
+          "children": [
+            {
+              "name": "Sailors and Marine Oilers",
+              "value": 32530,
+              "salary": 46170
+            },
+            {
+              "name": "Captains, Mates, and Pilots of Water Vessels",
+              "value": 36720,
+              "salary": 81520
+            },
+            {
+              "name": "Motorboat Operators",
+              "value": 3290,
+              "salary": 43340
+            },
+            {
+              "name": "Ship Engineers",
+              "value": 9750,
+              "salary": 74120
+            }
+          ]
+        },
+        {
+          "name": "Other Transportation Workers",
+          "salary": 30230,
+          "children": [
+            {
+              "name": "Bridge and Lock Tenders",
+              "value": 3510,
+              "salary": 46680
+            },
+            {
+              "name": "Parking Lot Attendants",
+              "value": 146350,
+              "salary": 23250
+            },
+            {
+              "name": "Automotive and Watercraft Service Attendants",
+              "value": 109790,
+              "salary": 24280
+            },
+            {
+              "name": "Traffic Technicians",
+              "value": 6410,
+              "salary": 48650
+            },
+            {
+              "name": "Transportation Inspectors",
+              "value": 27430,
+              "salary": 72650
+            },
+            {
+              "name": "Transportation Attendants, Except Flight Attendants",
+              "value": 18410,
+              "salary": 31080
+            },
+            {
+              "name": "Transportation Workers, All Other",
+              "value": 37660,
+              "salary": 38740
+            }
+          ]
+        },
+        {
+          "name": "Material Moving Workers",
+          "salary": 29360,
+          "children": [
+            {
+              "name": "Conveyor Operators and Tenders",
+              "value": 28590,
+              "salary": 33870
+            },
+            {
+              "name": "Crane and Tower Operators",
+              "value": 45020,
+              "salary": 55280
+            },
+            {
+              "name": "Dredge Operators",
+              "value": 1760,
+              "salary": 46530
+            },
+            {
+              "name": "Excavating and Loading Machine and Dragline Operators",
+              "value": 48320,
+              "salary": 45230
+            },
+            {
+              "name": "Loading Machine Operators, Underground Mining",
+              "value": 2550,
+              "salary": 51260
+            },
+            {
+              "name": "Hoist and Winch Operators",
+              "value": 2960,
+              "salary": 50020
+            },
+            {
+              "name": "Industrial Truck and Tractor Operators",
+              "value": 542750,
+              "salary": 34260
+            },
+            {
+              "name": "Cleaners of Vehicles and Equipment",
+              "value": 348770,
+              "salary": 24660
+            },
+            {
+              "name": "Laborers and Freight, Stock, and Material Movers, Hand",
+              "value": 2587900,
+              "salary": 28720
+            },
+            {
+              "name": "Machine Feeders and Offbearers",
+              "value": 88070,
+              "salary": 30490
+            },
+            {
+              "name": "Packers and Packagers, Hand",
+              "value": 705660,
+              "salary": 24430
+            },
+            {
+              "name": "Gas Compressor and Gas Pumping Station Operators",
+              "value": 3890,
+              "salary": 59620
+            },
+            {
+              "name": "Pump Operators, Except Wellhead Pumpers",
+              "value": 12030,
+              "salary": 46270
+            },
+            {
+              "name": "Wellhead Pumpers",
+              "value": 11610,
+              "salary": 50730
+            },
+            {
+              "name": "Refuse and Recyclable Material Collectors",
+              "value": 114680,
+              "salary": 37690
+            },
+            {
+              "name": "Mine Shuttle Car Operators",
+              "value": 1590,
+              "salary": 56370
+            },
+            {
+              "name": "Tank Car, Truck, and Ship Loaders",
+              "value": 10920,
+              "salary": 39590
+            },
+            {
+              "name": "Material Moving Workers, All Other",
+              "value": 23880,
+              "salary": 34540
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
