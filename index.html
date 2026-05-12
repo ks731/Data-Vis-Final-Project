@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The American Workforce</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=IBM+Plex+Sans:wght@300;400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #0b0c14;
+      color: #e8e8f0;
+      font-family: 'IBM Plex Sans', sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /*Header*/
+    #header {
+      padding: 18px 24px 10px;
+      flex-shrink: 0;
+    }
+
+    h1 {
+      font-family: 'Syne', sans-serif;
+      font-size: 1.7rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      color: #f0f0fa;
+      cursor: pointer;
+      display: inline-block;
+    }
+    h1:hover { color: #aad4f0; }
+
+    #subtitle {
+      font-size: 0.8rem;
+      color: #666;
+      margin-top: 2px;
+      font-weight: 300;
+      letter-spacing: 0.02em;
+    }
+
+    /* breadcrumb*/
+    #breadcrumb {
+      margin-top: 8px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.72rem;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      flex-wrap: wrap;
+      min-height: 18px;
+    }
+
+    .crumb         { cursor: pointer; color: #5ba8cc; transition: color 0.15s; }
+    .crumb:hover   { color: #fff; }
+    .crumb-sep     { color: #333; }
+    .crumb-current { color: #aaa; cursor: default; }
+
+    /* hint*/
+    #hint {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.68rem;
+      color: #3a3a52;
+      padding: 0 24px 6px;
+      flex-shrink: 0;
+    }
+
+    /* legend */
+    #legend {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 0 24px 8px;
+      font-size: 0.7rem;
+      color: #666;
+      flex-shrink: 0;
+    }
+
+    #legend-wrap { display: flex; flex-direction: column; gap: 2px; }
+
+    #legend-gradient { width: 180px; height: 9px; border-radius: 4px; display: block; }
+
+    #legend-ticks {
+      display: flex;
+      justify-content: space-between;
+      width: 180px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.65rem;
+      color: #555;
+    }
+
+    #no-salary-swatch {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      margin-left: 14px;
+      color: #444;
+      font-size: 0.68rem;
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    #no-salary-swatch span:first-child {
+      width: 12px; height: 9px; background: #1a1a2e;
+      border: 1px solid #333; border-radius: 2px; display: inline-block;
+    }
+
+    /*treemap*/
+    #treemap-container {
+      flex: 1;
+      padding: 0 10px 10px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    #treemap-svg { width: 100%; height: 100%; display: block; }
+
+    .cell         { cursor: pointer; }
+    .cell:hover rect { filter: brightness(1.2); }
+    .cell.leaf    { cursor: default; }
+    .cell.leaf:hover rect { filter: none; }
+
+    /* tooltip */
+    #tooltip {
+      position: fixed;
+      background: rgba(8, 8, 18, 0.97);
+      border: 1px solid #1e2040;
+      border-radius: 6px;
+      padding: 10px 14px;
+      font-size: 0.78rem;
+      pointer-events: none;
+      display: none;
+      max-width: 270px;
+      box-shadow: 0 6px 24px rgba(0,0,0,0.6);
+      z-index: 100;
+    }
+
+    .tt-title { font-weight: 500; color: #f0f0fa; margin-bottom: 7px; line-height: 1.35; }
+
+    .tt-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      color: #666;
+      margin-top: 3px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.7rem;
+    }
+
+    .tt-val  { color: #c8c8e0; font-weight: 500; }
+    .tt-hint { font-size: 0.62rem; color: #333; margin-top: 6px; font-style: italic; }
+  </style>
+</head>
+<body>
+
+  <div id="header">
+    <h1 id="title">The American Workforce</h1>
+    <p id="subtitle">U.S. Employment &amp; Salary Across Occupational Groups &nbsp;·&nbsp; BLS Occupational Employment Statistics</p>
+    <div id="breadcrumb"></div>
+  </div>
+
+  <p id="hint">Click any group to zoom in &nbsp;·&nbsp; Click the title to return to top level</p>
+
+  <div id="legend">
+    <span>Annual Mean Salary</span>
+    <div id="legend-wrap">
+      <canvas id="legend-gradient" width="180" height="9"></canvas>
+      <div id="legend-ticks">
+        <span>$25k</span><span>$100k</span><span>$200k+</span>
+      </div>
+    </div>
+    <div id="no-salary-swatch">
+      <span></span><span>No salary data</span>
+    </div>
+  </div>
+
+  <div id="treemap-container">
+    <svg id="treemap-svg"></svg>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script>
+    //color scale
+    const SALARY_MIN = 25000;
+    const SALARY_MAX = 200000;
+    const NO_DATA_COLOR = '#12121f';
+
+    const colorScale = d3.scaleSequential()
+      .domain([SALARY_MIN, SALARY_MAX])
+      .interpolator(d3.interpolateRgbBasis([
+        '#0d2b45', '#1a5f7a', '#2a9d8f', '#e9c46a', '#e76f51'
+      ]));
+
+    function getColor(salary) {
+      if (salary == null) return NO_DATA_COLOR;
+      return colorScale(Math.min(salary, SALARY_MAX));
+    }
+
+    // Draw legend gradient
+    const canvas = document.getElementById('legend-gradient');
+    const ctx = canvas.getContext('2d');
+    const grad = ctx.createLinearGradient(0, 0, 180, 0);
+    for (let i = 0; i <= 20; i++) {
+      const t = i / 20;
+      grad.addColorStop(t, colorScale(SALARY_MIN + t * (SALARY_MAX - SALARY_MIN)));
+    }
+    ctx.fillStyle = grad;
+    ctx.fillRect(0, 0, 180, 9);
+
+    //state
+    let fullData = null;
+    let history  = []; // [{ data, label }, ...]
+
+    //tool tip
+    const ttEl = document.getElementById('tooltip');
+
+    function showTooltip(event, d) {
+      const isGroup = !!(d.data.children && d.data.children.length);
+      const emp    = d.value ? d.value.toLocaleString() : '—';
+      const salary = d.data.salary ? '$' + d.data.salary.toLocaleString() : 'Not available';
+
+      ttEl.innerHTML = `
+        <div class="tt-title">${d.data.name}</div>
+        <div class="tt-row"><span>Total Employment</span><span class="tt-val">${emp}</span></div>
+        <div class="tt-row"><span>Mean Annual Salary</span><span class="tt-val">${salary}</span></div>
+        ${isGroup ? '<p class="tt-hint">Click to zoom in</p>' : ''}
+      `;
+      ttEl.style.display = 'block';
+      positionTooltip(event);
+    }
+
+    function positionTooltip(event) {
+      const x = Math.min(event.clientX + 14, window.innerWidth  - 290);
+      const y = Math.min(event.clientY - 10, window.innerHeight - 130);
+      ttEl.style.left = x + 'px';
+      ttEl.style.top  = y + 'px';
+    }
+
+    // breadcrumb
+    function updateBreadcrumb() {
+      const bc = document.getElementById('breadcrumb');
+      bc.innerHTML = '';
+
+    
+      const crumbs = [
+        { label: 'U.S. Workforce', index: -1 },
+        ...history.map((h, i) => ({ label: h.label, index: i }))
+      ];
+
+      crumbs.forEach((crumb, i) => {
+        if (i > 0) {
+          const sep = document.createElement('span');
+          sep.className = 'crumb-sep';
+          sep.textContent = '›';
+          bc.appendChild(sep);
+        }
+
+        const el = document.createElement('span');
+        if (i === crumbs.length - 1) {
+          el.className = 'crumb-current';
+          el.textContent = crumb.label;
+        } else {
+          el.className = 'crumb';
+          el.textContent = crumb.label;
+          el.addEventListener('click', () => {
+            if (crumb.index === -1) {
+              history = [];
+              render(fullData);
+            } else {
+              history = history.slice(0, crumb.index + 1);
+              render(history[crumb.index].data);
+            }
+            updateBreadcrumb();
+          });
+        }
+        bc.appendChild(el);
+      });
+    }
+
+    // render
+    function render(nodeData) {
+      const container = document.getElementById('treemap-container');
+      const W = container.clientWidth;
+      const H = container.clientHeight;
+
+      const svg = d3.select('#treemap-svg');
+      svg.attr('viewBox', `0 0 ${W} ${H}`);
+      svg.selectAll('*').remove();
+
+      // build hierarchy
+      const hier = d3.hierarchy(nodeData)
+        .sum(d => d.value || 0)
+        .sort((a, b) => b.value - a.value);
+
+      d3.treemap()
+        .size([W, H])
+        .paddingOuter(3)
+        .paddingInner(2)
+        .round(true)(hier);
+
+      const cells = hier.children || [];
+
+      const g = svg.selectAll('.cell')
+        .data(cells)
+        .join('g')
+        .attr('class', d => 'cell' + (d.data.children && d.data.children.length ? '' : ' leaf'))
+        .attr('transform', d => `translate(${d.x0},${d.y0})`);
+
+      //rectangle
+      g.append('rect')
+        .attr('width',  d => Math.max(0, d.x1 - d.x0))
+        .attr('height', d => Math.max(0, d.y1 - d.y0))
+        .attr('fill',   d => getColor(d.data.salary))
+        .attr('rx', 3);
+
+      // clip path
+      g.append('clipPath')
+        .attr('id', (_, i) => `cp-${i}`)
+        .append('rect')
+        .attr('x', 5).attr('y', 5)
+        .attr('width',  d => Math.max(0, d.x1 - d.x0 - 10))
+        .attr('height', d => Math.max(0, d.y1 - d.y0 - 10));
+
+      const txt = g.append('g')
+        .attr('clip-path', (_, i) => `url(#cp-${i})`);
+
+      //occupation
+      txt.append('text')
+        .attr('x', 7).attr('y', 10)
+        .attr('fill', '#fff')
+        .attr('dominant-baseline', 'hanging')
+        .attr('font-family', "'IBM Plex Sans', sans-serif")
+        .attr('font-weight', '500')
+        .attr('font-size', d => {
+          const w = d.x1 - d.x0;
+          return w > 160 ? '12px' : w > 80 ? '10px' : '8.5px';
+        })
+        .text(d => d.data.name)
+        .each(function(d) {
+          //trim label
+          const maxW = (d.x1 - d.x0) - 14;
+          let node = this;
+          if (node.getComputedTextLength && node.getComputedTextLength() > maxW) {
+            let t = d.data.name;
+            while (node.getComputedTextLength() > maxW && t.length > 2) {
+              t = t.slice(0, -2);
+              d3.select(node).text(t + '…');
+            }
+          }
+        });
+
+      //employment count
+      txt.append('text')
+        .attr('x', 7).attr('y', 26)
+        .attr('fill', 'rgba(255,255,255,0.5)')
+        .attr('dominant-baseline', 'hanging')
+        .attr('font-family', "'IBM Plex Mono', monospace")
+        .attr('font-size', '9px')
+        .text(d => {
+          const w = d.x1 - d.x0;
+          const h = d.y1 - d.y0;
+          return (w > 80 && h > 44 && d.value) ? d.value.toLocaleString() : '';
+        });
+
+      // mouse 
+      g.on('mousemove', (event, d) => { showTooltip(event, d); positionTooltip(event); })
+       .on('mouseleave', () => { ttEl.style.display = 'none'; })
+       .on('click', (event, d) => {
+          if (d.data.children && d.data.children.length) {
+            history.push({ data: d.data, label: d.data.name });
+            render(d.data);
+            updateBreadcrumb();
+          }
+        });
+    }
+
+    // Load JSON & boot
+    fetch('workforce.json')
+      .then(r => r.json())
+      .then(data => {
+        fullData = data;
+        render(fullData);
+        updateBreadcrumb();
+      })
+      .catch(() => {
+        document.getElementById('treemap-container').innerHTML =
+          '<p style="color:#f88;padding:24px;font-family:monospace;">Could not load workforce.json — make sure it is in the same folder as index.html.</p>';
+      });
+
+    //title click(back to root)
+    document.getElementById('title').addEventListener('click', () => {
+      history = [];
+      render(fullData);
+      updateBreadcrumb();
+    });
+
+    //window resize
+    window.addEventListener('resize', () => {
+      if (!fullData) return;
+      const current = history.length ? history[history.length - 1].data : fullData;
+      render(current);
+    });
+  </script>
+</body>
+</html>
